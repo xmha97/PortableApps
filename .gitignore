@@ -1,4 +1,7 @@
+.vs/*
 App/Simplenote/*
 App/Simplenote64/*
+Data/.gitkeep/*
 !App/Simplenote/.gitkeep
 !App/Simplenote64/.gitkeep
+!Data/.gitkeep
