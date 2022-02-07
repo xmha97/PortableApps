@@ -1,4 +1,5 @@
 .vs
-Data
-App/Simplenote
-App/Simplenote64
+*/Data
+*/*.exe
+SimplenotePortable/App/Simplenote
+SimplenotePortable/App/Simplenote64
