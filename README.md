@@ -15,6 +15,7 @@
 			ImageGlass Portable v1.0
 		</b>
 	</a>
+	<hr/>
 	<p>
 		<a href="https://github.com/xmha97/PortableApps/releases/tag/ScreenToGif-v2.21">
 			<img src="ScreenToGifPortable/App/AppInfo/appicon_128.png" width="128" alt="ScreenToGif" />
@@ -25,6 +26,7 @@
 			ScreenToGif Portable v1.0
 		</b>
 	</a>
+	<hr/>
 	<p>
 		<a href="https://github.com/xmha97/PortableApps/releases/tag/Simplenote-v2.21">
 			<img src="SimplenotePortable/App/AppInfo/appicon_128.png" width="128" alt="Simplenote" />
@@ -35,6 +37,7 @@
 			Simplenote Portable v1.0
 		</b>
 	</a>
+	<hr/>
 	<p>
 		<a href="https://github.com/xmha97/PortableApps/releases/tag/TextGrab-v2.21">
 			<img src="TextGrabPortable/App/AppInfo/appicon_128.png" width="128" alt="TextGrab" />
@@ -45,6 +48,7 @@
 			TextGrab Portable v1.0
 		</b>
 	</a>
+	<hr/>
 	<p>
 		<a href="https://github.com/xmha97/PortableApps/releases/tag/TickTick-v2.21">
 			<img src="TickTickPortable/App/AppInfo/appicon_128.png" width="128" alt="TickTick" />
@@ -55,6 +59,7 @@
 			TickTick Portable v1.0
 		</b>
 	</a>
+	<hr/>
 	<p>
 		<a href="https://github.com/xmha97/PortableApps/releases/tag/Trello-v2.21">
 			<img src="TrelloPortable/App/AppInfo/appicon_128.png" width="128" alt="Trello" />
