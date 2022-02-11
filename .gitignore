@@ -1,5 +1,6 @@
 .vs
-*/Data
-*/*.exe
-SimplenotePortable/App/Simplenote
-SimplenotePortable/App/Simplenote64
+*Portable/*.exe
+*Portable/App/
+*Portable/Data
+!*Portable/App/Readme.txt
+!*Portable/App/AppInfo
