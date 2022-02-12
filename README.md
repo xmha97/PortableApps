@@ -10,7 +10,6 @@
 		</b>
 	</a>
 	<hr/>
-
 	<p>
 		<a href="https://github.com/xmha97/PortableApps/releases/tag/ImageGlass-v2.21">
 			<img src="ImageGlassPortable/App/AppInfo/appicon_128.png" width="128" alt="ImageGlass" />
