@@ -10,7 +10,7 @@ body:
       Please make sure to [search for existing issues](https://github.com/xmha97/PortableApps/issues) before filing a new one!
 - type: dropdown
   attributes:
-    label: OS
+    label: Operating System
     options:
       - Windows 11
       - Windows 10
@@ -22,7 +22,7 @@ body:
     required: true
 - type: dropdown
   attributes:
-    label: App
+    label: Portable App
     options:
       - ImageGlass Portable
       - ScreenToGif Portable
@@ -35,6 +35,6 @@ body:
 - type: textarea
   attributes:
     label: Description
-    placeholder: Why do you feel this is incorrect?
+    placeholder: What is the issue?
   validations:
     required: true
