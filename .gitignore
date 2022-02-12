@@ -1,6 +1,7 @@
 .vs
+.vscode
 *Portable/*.exe
-*Portable/App/
+*Portable/App/*
 *Portable/Data
 !*Portable/App/Readme.txt
-!*Portable/App/AppInfo/*
+!*Portable/App/AppInfo
