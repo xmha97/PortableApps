@@ -1,5 +1,5 @@
-name: "🌐 Localization/Translation issue"
-description: Report incorrect translations.
+name: "🐛 Localization/Translation issue"
+description: Report a bug or crash.
 labels: 
 - Issue-Bug
 - Area-Localization
@@ -22,31 +22,12 @@ body:
   attributes:
     label: Utility with translation issue
     options:
-      - General
-      - Always on Top
-      - Awake
-      - ColorPicker
-      - Developer file preview
-      - FancyZones
-      - FancyZones Editor 
-      - Image Resizer
-      - Keyboard Manager
-      - MD Preview
-      - Mouse Utilities
-      - PDF Preview
-      - PDF Thumbnail
-      - G-code Preview
-      - G-code Thumbnail
-      - PowerRename
-      - PowerToys Run
-      - Shortcut Guide
-      - SVG Preview
-      - SVG Thumbnail
-      - Settings
-      - Video Conference Mute
-      - Welcome / PowerToys Tour window
-      - System tray interaction
-      - Installer
+      - ImageGlass Portable
+      - ScreenToGif Portable
+      - Simplenote Portable
+      - TextGrab Portable
+      - TickTick Portable
+      - Trello Portable
   validations:
     required: true
 - type: input
