@@ -1,8 +1,8 @@
-name: "🐛 Bug Report"
-description: Report a bug or crash.
+name: "🐛 Bug report"
+description: Report errors or unexpected behavior
 labels: 
 - Issue-Bug
-- Needs-Triage 
+- Needs-Triage
 body:
 - type: markdown
   attributes:
