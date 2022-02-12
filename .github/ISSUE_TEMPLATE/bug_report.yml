@@ -10,7 +10,7 @@ body:
       Please make sure to [search for existing issues](https://github.com/xmha97/PortableApps/issues) before filing a new one!
 - type: dropdown
   attributes:
-    label: Utility with translation issue
+    label: OS
     options:
       - Windows 11
       - Windows 10
@@ -22,7 +22,7 @@ body:
     required: true
 - type: dropdown
   attributes:
-    label: Utility with translation issue
+    label: App
     options:
       - ImageGlass Portable
       - ScreenToGif Portable
