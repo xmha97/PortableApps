@@ -1,10 +1,16 @@
 <div align="center">
-	<a href="https://github.com/xmha97/PortableApps/releases">
+	<p>
+		<a href="https://github.com/xmha97/PortableApps/releases/">
+			<img src="docs/appicon_128.png" width="128" alt="PortableApps" />
+		</a>
+	</p>
+	<a href="https://github.com/xmha97/PortableApps/releases/">
 		<b>
-			PortableApps
+			PortableApps (2022-02-12)
 		</b>
 	</a>
 	<hr/>
+
 	<p>
 		<a href="https://github.com/xmha97/PortableApps/releases/tag/ImageGlass-v2.21">
 			<img src="ImageGlassPortable/App/AppInfo/appicon_128.png" width="128" alt="ImageGlass" />
