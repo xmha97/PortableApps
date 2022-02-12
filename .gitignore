@@ -1,5 +1,8 @@
 .vs
 .vscode
+PortableApps.com
+PortableApps.comInstaller
+PortableApps.comLauncher
 *Portable/*.exe
 *Portable/App/*
 *Portable/Data
