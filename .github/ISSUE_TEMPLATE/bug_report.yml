@@ -9,24 +9,20 @@ body:
     value: |
       Please make sure to [search for existing issues](https://github.com/xmha97/PortableApps/issues) before filing a new one!
 - type: dropdown
-  id: os_info
   attributes:
-    label: Operating System Info
-    description: What Operating System are you running?
+    label: Utility with translation issue
     options:
       - Windows 11
       - Windows 10
-      - Windows 8.1
+      - Windows 8
       - Windows 7
       - Windows Vista
       - Windows XP
   validations:
     required: true
 - type: dropdown
-  id: app_info
   attributes:
-    label: App Info
-    description: What app are you running?
+    label: Utility with translation issue
     options:
       - ImageGlass Portable
       - ScreenToGif Portable
