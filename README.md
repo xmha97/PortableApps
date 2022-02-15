@@ -7,7 +7,7 @@
 	<p><a href="https://github.com/xmha97/PortableApps/releases/tag/ImageGlass-v2.21"><img src="ImageGlassPortable/App/AppInfo/appicon_128.png" width="128" alt="ImageGlass" /></a></p>
 	<a href="https://github.com/xmha97/PortableApps/releases/tag/ImageGlass-v2.21"><b>ImageGlass Portable v1.0</b></a>
 	<br/>
-	<img src="https://img.shields.io/github/license/xmha97/PortableApps" alt="license" />
+	<img src="https://img.shields.io/github/license/d2phap/ImageGlass" alt="license" />
 	<hr/>
 	<p><a href="https://github.com/xmha97/PortableApps/releases/tag/ScreenToGif-v2.21"><img src="ScreenToGifPortable/App/AppInfo/appicon_128.png" width="128" alt="ScreenToGif" /></a></p>
 	<a href="https://github.com/xmha97/PortableApps/releases/tag/ScreenToGif-v2.21"><b>ScreenToGif Portable v1.0</b></a>
