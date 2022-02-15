@@ -1,6 +1,6 @@
 <div align="center">
 	<p><a href="https://github.com/xmha97/PortableApps/releases/"><img src="docs/appicon_128.png" width="128" alt="PortableApps" /></a>
-	</p><a href="https://github.com/xmha97/PortableApps/releases/"><b>PortableApps</b></a>
+	</p><b>Unofficial PortableApps Repository</b></a>
 	<hr/>
 	<p><a href="https://github.com/xmha97/PortableApps/releases/tag/ImageGlass-v2.21"><img src="ImageGlassPortable/App/AppInfo/appicon_128.png" width="128" alt="ImageGlass" /></a></p>
 	<a href="https://github.com/xmha97/PortableApps/releases/tag/ImageGlass-v2.21"><b>ImageGlass Portable v1.0</b></a>
