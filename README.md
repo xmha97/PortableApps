@@ -1,6 +1,6 @@
 <div align="center">
 	<p><a href="https://github.com/xmha97/PortableApps/releases/"><img src="docs/appicon_128.png" width="128" alt="PortableApps" /></a>
-	</p><a href="https://github.com/xmha97/PortableApps/releases/"><b>PortableApps (2022-02-12)</b></a>
+	</p><a href="https://github.com/xmha97/PortableApps/releases/"><b>PortableApps</b></a>
 	<hr/>
 	<p><a href="https://github.com/xmha97/PortableApps/releases/tag/ImageGlass-v2.21"><img src="ImageGlassPortable/App/AppInfo/appicon_128.png" width="128" alt="ImageGlass" /></a></p>
 	<a href="https://github.com/xmha97/PortableApps/releases/tag/ImageGlass-v2.21"><b>ImageGlass Portable v1.0</b></a>
@@ -20,8 +20,8 @@
 	<p><a href="https://github.com/xmha97/PortableApps/releases/tag/TickTick-v2.21"><img src="TickTickPortable/App/AppInfo/appicon_128.png" width="128" alt="TickTick" /></a></p>
 	<a href="https://github.com/xmha97/PortableApps/releases/tag/TickTick-v2.21"><b>TickTick Portable v1.0</b></a>
 	<hr/>
-	<p><a href="https://github.com/xmha97/PortableApps/releases/tag/Trello-v2.21"><img src="TrelloPortable/App/AppInfo/appicon_128.png" width="128" alt="Trello" /></a></p>
-	<a href="https://github.com/xmha97/PortableApps/releases/tag/Trello-v2.21"><b>TorBrowser Portable v1.0</b></a>
+	<p><a href="https://github.com/xmha97/PortableApps/releases/tag/TorBrowser-v2.21"><img src="TorBrowserPortable/App/AppInfo/appicon_128.png" width="128" alt="TorBrowser" /></a></p>
+	<a href="https://github.com/xmha97/PortableApps/releases/tag/TorBrowser-v2.21"><b>TorBrowser Portable v1.0</b></a>
 	<hr/>
 	<p><a href="https://github.com/xmha97/PortableApps/releases/tag/Trello-v2.21"><img src="TrelloPortable/App/AppInfo/appicon_128.png" width="128" alt="Trello" /></a></p>
 	<a href="https://github.com/xmha97/PortableApps/releases/tag/Trello-v2.21"><b>Trello Portable v1.0</b></a>
