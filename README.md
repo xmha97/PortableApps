@@ -42,6 +42,6 @@
 	<p><a href="https://github.com/xmha97/PortableApps/releases/tag/Trello-v2.21"><img src="TrelloPortable/App/AppInfo/appicon_128.png" width="128" alt="Trello" /></a></p>
 	<a href="https://github.com/xmha97/PortableApps/releases/tag/Trello-v2.21"><b>Trello Portable v1.0</b></a>
 	<br/>
-	<img src="https://img.shields.io/github/license/xmha97/PortableApps" alt="license" />
 	<img src="https://img.shields.io/badge/www-trello.com-0099BC.svg" alt="zzzzsite" />
+	<img src="https://img.shields.io/github/license/xmha97/PortableApps" alt="license" />
 </div>
