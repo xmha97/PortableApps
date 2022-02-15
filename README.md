@@ -28,7 +28,7 @@
 	<p><a href="https://github.com/xmha97/PortableApps/releases/tag/TextGrab-v2.21"><img src="TextGrabPortable/App/AppInfo/appicon_128.png" width="128" alt="TextGrab" /></a></p>
 	<a href="https://github.com/xmha97/PortableApps/releases/tag/TextGrab-v2.21"><b>TextGrab Portable v1.0</b></a>
 	<br/>
-	<img src="https://img.shields.io/badge/www-google.com-0099BC.svg" alt="zzzzsite" />
+	<img src="https://img.shields.io/badge/www-joefinapps.com-0099BC.svg" alt="zzzzsite" />
 	<img src="https://img.shields.io/github/license/xmha97/PortableApps" alt="license" />
 	<hr/>
 	<p><a href="https://github.com/xmha97/PortableApps/releases/tag/TickTick-v2.21"><img src="TickTickPortable/App/AppInfo/appicon_128.png" width="128" alt="TickTick" /></a></p>
