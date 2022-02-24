@@ -7,6 +7,12 @@
 	<img src="https://img.shields.io/badge/www-imageglass.com-0099BC.svg" alt="zzzzsite" />
 	<img src="https://img.shields.io/badge/license-GPLv3-green.svg" alt="license" />
 	<hr/>
+	<p><a href="https://github.com/xmha97/PortableApps/releases/tag/RetroArch-v2.21"><img src="RetroArchPortable/App/AppInfo/appicon_128.png" width="128" alt="RetroArch" /></a></p>
+	<a href="https://github.com/xmha97/PortableApps/releases/tag/RetroArch-v2.21"><b>RetroArch Portable</b></a>
+	<br/>
+	<img src="https://img.shields.io/badge/www-retroarch.com-0099BC.svg" alt="zzzzsite" />
+	<img src="https://img.shields.io/github/license/xmha97/PortableApps" alt="license" />
+	<hr/>
 	<p><a href="https://github.com/xmha97/PortableApps/releases/tag/ScreenToGif-v2.21"><img src="ScreenToGifPortable/App/AppInfo/appicon_128.png" width="128" alt="ScreenToGif" /></a></p>
 	<a href="https://github.com/xmha97/PortableApps/releases/tag/ScreenToGif-v2.21"><b>ScreenToGif Portable</b></a>
 	<br/>
@@ -47,11 +53,5 @@
 	<a href="https://github.com/xmha97/PortableApps/releases/tag/Trello-v2.21"><b>Trello Portable</b></a>
 	<br/>
 	<img src="https://img.shields.io/badge/www-trello.com-0099BC.svg" alt="zzzzsite" />
-	<img src="https://img.shields.io/github/license/xmha97/PortableApps" alt="license" />
-	<hr/>
-	<p><a href="https://github.com/xmha97/PortableApps/releases/tag/RetroArch-v2.21"><img src="RetroArchPortable/App/AppInfo/appicon_128.png" width="128" alt="RetroArch" /></a></p>
-	<a href="https://github.com/xmha97/PortableApps/releases/tag/RetroArch-v2.21"><b>RetroArch Portable</b></a>
-	<br/>
-	<img src="https://img.shields.io/badge/www-retroarch.com-0099BC.svg" alt="zzzzsite" />
 	<img src="https://img.shields.io/github/license/xmha97/PortableApps" alt="license" />
 </div>
