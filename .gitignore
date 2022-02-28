@@ -3,6 +3,8 @@
 PortableApps.com
 PortableApps.comInstaller
 PortableApps.comLauncher
+7-ZipPortable
+LosslessCutPortable
 *Portable/*.exe
 *Portable/App/*
 *Portable/Data
