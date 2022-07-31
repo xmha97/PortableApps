@@ -8,5 +8,8 @@ LosslessCutPortable
 *Portable/*.exe
 *Portable/App/*
 *Portable/Data
+*PortableDev/*.exe
+*PortableDev/App/*
+*PortableDev/Data
 !*Portable/App/Readme.txt
 !*Portable/App/AppInfo
