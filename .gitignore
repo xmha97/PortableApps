@@ -5,6 +5,7 @@ PortableApps.comInstaller
 PortableApps.comLauncher
 7-ZipPortable
 LosslessCutPortable
+*.exe
 *Portable/*.exe
 *Portable/App/*
 *Portable/Data
