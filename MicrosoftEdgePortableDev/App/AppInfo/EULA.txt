@@ -1,0 +1,11 @@
+Please note that you MUST sign into Microsoft Edge with your associated Microsoft account in order to have a fully functional browser when used portably. Unlike other browsers, some components of Microsoft Edge are locked to a given PC and will be lost if you move from PC to PC including extensions, extension settings and data, homepage and search settings, etc. This is by design of the Microsoft Edge team.
+
+Passwords are not portable by default but can be made portable using a configuration option within the launcher's INI file. They may be portable while signed into Microsoft.
+
+Certificates and Edge apps installed outside the browser are not portable and are installed on the local machine.
+
+By installing, you are agreeing to the current Microsoft Terms of Service: https://www.microsoft.com/en-gb/servicesagreement
+
+Portableapps.com is not affiliated with Microsoft. Microsoft and Edge are trademarks or registered trademarks of Microsoft Inc.
+
+Portions of Microsoft Edge Portable utilize SQLite3.  The license is available here: https://www.sqlite.org/copyright.html
