@@ -1,4 +1,4 @@
 # PortableApps
 Unofficial PortableApps.com Repository
 
-https://github.com/xmha97/PortableApps/releases/tag/Hiddify
+[Hiddify](https://github.com/xmha97/PortableApps/releases?q=Hiddify&expanded=true)
