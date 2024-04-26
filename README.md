@@ -1,10 +1,10 @@
 # PortableApps
 Unofficial PortableApps.com Repository
 # TOC
-[🏢 Office](https://github.com/xmha97/PortableApps/tree/main?tab=readme-ov-file#-office)
-[🛜 Internet](https://github.com/xmha97/PortableApps/tree/main?tab=readme-ov-file#-internet)
-[🎓 Education](https://github.com/xmha97/PortableApps/tree/main?tab=readme-ov-file#-education)
-[🔐 Security](https://github.com/xmha97/PortableApps/tree/main?tab=readme-ov-file#-security)
+[🏢 Office](https://github.com/xmha97/PortableApps/tree/main?tab=readme-ov-file#-office)  
+[🛜 Internet](https://github.com/xmha97/PortableApps/tree/main?tab=readme-ov-file#-internet)  
+[🎓 Education](https://github.com/xmha97/PortableApps/tree/main?tab=readme-ov-file#-education)  
+[🔐 Security](https://github.com/xmha97/PortableApps/tree/main?tab=readme-ov-file#-security)  
 # 🏢 Office
 [![DIDA](https://raw.githubusercontent.com/xmha97/PortableApps/main/DIDAPortable/App/AppInfo/appicon_16.png) DIDA](https://github.com/xmha97/PortableApps/releases?q=DIDA&expanded=true)  
 [![Simplenote](https://raw.githubusercontent.com/xmha97/PortableApps/main/SimplenotePortable/App/AppInfo/appicon_16.png) Simplenote](https://github.com/xmha97/PortableApps/releases?q=Simplenote&expanded=true)  
