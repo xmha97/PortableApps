@@ -11,5 +11,5 @@ Unofficial PortableApps.com Repository
 - [EdgeDev](https://github.com/xmha97/PortableApps/releases?q=EdgeDev&expanded=true)
 # Education
 - [Anki](https://github.com/xmha97/PortableApps/releases?q=Anki&expanded=true)
-# Other
+# Security
 - [Bitwarden](https://github.com/xmha97/PortableApps/releases?q=Bitwarden&expanded=true)
