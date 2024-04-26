@@ -8,8 +8,8 @@ Unofficial PortableApps.com Repository
 # Internet
 - [Hiddify](https://github.com/xmha97/PortableApps/releases?q=Hiddify&expanded=true)
 - [Xmind](https://github.com/xmha97/PortableApps/releases?q=Xmind&expanded=true)
+- [EdgeDev](https://github.com/xmha97/PortableApps/releases?q=EdgeDev&expanded=true)
 # Education
 - [Anki](https://github.com/xmha97/PortableApps/releases?q=Anki&expanded=true)
 # Other
 - [Bitwarden](https://github.com/xmha97/PortableApps/releases?q=Bitwarden&expanded=true)
-- [EdgeDev](https://github.com/xmha97/PortableApps/releases?q=EdgeDev&expanded=true)
