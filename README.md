@@ -1,2 +1,3 @@
 # PortableApps
-Unofficial @PortableApps Repository
+Unofficial PortableApps.com Repository
+
