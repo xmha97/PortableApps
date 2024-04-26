@@ -1,6 +1,6 @@
 # PortableApps
-Unofficial PortableApps.com Repository
-# TOC
+Unofficial PortableApps.com Repository  
+  
 [🏢 Office](https://github.com/xmha97/PortableApps/tree/main?tab=readme-ov-file#-office)  
 [🛜 Internet](https://github.com/xmha97/PortableApps/tree/main?tab=readme-ov-file#-internet)  
 [🎓 Education](https://github.com/xmha97/PortableApps/tree/main?tab=readme-ov-file#-education)  
