@@ -10,7 +10,7 @@ Unofficial PortableApps.com Repository
 [![Simplenote](https://raw.githubusercontent.com/xmha97/PortableApps/main/SimplenotePortable/App/AppInfo/appicon_16.png) Simplenote](https://github.com/xmha97/PortableApps/releases?q=Simplenote&expanded=true)  
 [![Obsidian](https://raw.githubusercontent.com/xmha97/PortableApps/main/ObsidianPortable/App/AppInfo/appicon_16.png) Obsidian](https://github.com/xmha97/PortableApps/releases?q=Obsidian&expanded=true)  
 [![Typora](https://raw.githubusercontent.com/xmha97/PortableApps/main/TyporaPortable/App/AppInfo/appicon_16.png) Typora](https://github.com/xmha97/PortableApps/releases?q=Typora&expanded=true)  
-[![Roozegaar Calendar](https://raw.githubusercontent.com/xmha97/PortableApps/main/RoozegaarCalendarPortable/App/AppInfo/appicon_16.png) RoozegaarCalendar](https://github.com/xmha97/PortableApps/releases?q=RoozegaarCalendar&expanded=true)  
+[![Roozegaar Calendar](https://raw.githubusercontent.com/xmha97/PortableApps/main/RoozegaarCalendarPortable/App/AppInfo/appicon_16.png) Roozegaar Calendar](https://github.com/xmha97/PortableApps/releases?q=RoozegaarCalendar&expanded=true)  
 # 🛜 Internet
 [![Hiddify](https://raw.githubusercontent.com/xmha97/PortableApps/main/HiddifyPortable/App/AppInfo/appicon_16.png) Hiddify](https://github.com/xmha97/PortableApps/releases?q=Hiddify&expanded=true)  
 [![Xmind](https://raw.githubusercontent.com/xmha97/PortableApps/main/XmindPortable/App/AppInfo/appicon_16.png) Xmind](https://github.com/xmha97/PortableApps/releases?q=Xmind&expanded=true)  
