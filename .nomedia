@@ -1,0 +1,1 @@
+This file prevents image files within the PortableApps directory and its sub-directories from appearing within most Android photo apps.  That way your photo gallery doesn't get filled with icons, splash screen images, and other images.
