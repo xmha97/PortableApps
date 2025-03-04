@@ -3,7 +3,7 @@ Unofficial PortableApps.com Repository
 
 [🏢 Office (4 apps)](https://github.com/xmha97/PortableApps/tree/main?tab=readme-ov-file#-office)  
 [🛜 Internet (3 apps)](https://github.com/xmha97/PortableApps/tree/main?tab=readme-ov-file#-internet)  
-[🏢 Development (1 apps)](https://github.com/xmha97/PortableApps/tree/main?tab=readme-ov-file#-development)  
+[👨‍💻 Development (1 apps)](https://github.com/xmha97/PortableApps/tree/main?tab=readme-ov-file#-development)  
 [🎓 Education (1 app)](https://github.com/xmha97/PortableApps/tree/main?tab=readme-ov-file#-education)  
 [🔐 Security (1 app)](https://github.com/xmha97/PortableApps/tree/main?tab=readme-ov-file#-security)  
 # 🏢 Office
