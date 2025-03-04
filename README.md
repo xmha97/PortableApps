@@ -17,7 +17,7 @@ Unofficial PortableApps.com Repository
 [![Xmind](https://raw.githubusercontent.com/xmha97/PortableApps/main/XmindPortable/App/AppInfo/appicon_16.png) Xmind](https://github.com/xmha97/PortableApps/releases?q=Xmind&expanded=true)  
 [![EdgeDev](https://raw.githubusercontent.com/xmha97/PortableApps/main/MicrosoftEdgePortableDev/App/AppInfo/appicon_16.png) EdgeDev](https://github.com/xmha97/PortableApps/releases?q=EdgeDev&expanded=true)  
 # 👨‍💻 Development
-[![massCode](https://raw.githubusercontent.com/xmha97/PortableApps/main/massCode/App/AppInfo/appicon_16.png) massCode](https://github.com/xmha97/PortableApps/releases?q=massCode&expanded=true)  
+[![massCode](https://raw.githubusercontent.com/xmha97/PortableApps/main/massCodePortable/App/AppInfo/appicon_16.png) massCode](https://github.com/xmha97/PortableApps/releases?q=massCode&expanded=true)  
 # 🎓 Education
 [![Anki](https://raw.githubusercontent.com/xmha97/PortableApps/main/AnkiPortable/App/AppInfo/appicon_16.png) Anki](https://github.com/xmha97/PortableApps/releases?q=Anki&expanded=true)  
 # 🔐 Security
