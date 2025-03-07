@@ -10,12 +10,14 @@ AudaciousPortable
 ScreenToGifPortable
 PowderToyPortable
 calibrePortable
+PortableApps.comAppCompactor
 GoogleChromePortable
 GoogleChromePortable64
 FerdiumPortable
 7-ZipPortable
 LosslessCutPortable
 *.exe
+Desktop.ini
 *Portable/*.exe
 *Portable/App/*
 *Portable/Data
