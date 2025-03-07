@@ -7,7 +7,6 @@ Unofficial PortableApps.com Repository
 [![Typora](https://raw.githubusercontent.com/xmha97/PortableApps/main/TyporaPortable/App/AppInfo/appicon_16.png) Typora](https://github.com/xmha97/PortableApps/releases?q=Typora&expanded=true)  
 [![Roozegaar Calendar](https://raw.githubusercontent.com/xmha97/PortableApps/main/RoozegaarCalendarPortable/App/AppInfo/appicon_16.png) Roozegaar Calendar](https://github.com/xmha97/PortableApps/releases?q=Roozegaar%20Calendar&expanded=true)  
 # 🛜 Internet
-[![ChatGPT](https://raw.githubusercontent.com/xmha97/PortableApps/main/ChatGPTPortable/App/AppInfo/appicon_16.png) ChatGPT](https://github.com/xmha97/PortableApps/releases?q=ChatGPT&expanded=true)  
 [![Hiddify](https://raw.githubusercontent.com/xmha97/PortableApps/main/HiddifyPortable/App/AppInfo/appicon_16.png) Hiddify](https://github.com/xmha97/PortableApps/releases?q=Hiddify&expanded=true)  
 [![Xmind](https://raw.githubusercontent.com/xmha97/PortableApps/main/XmindPortable/App/AppInfo/appicon_16.png) Xmind](https://github.com/xmha97/PortableApps/releases?q=Xmind&expanded=true)  
 [![EdgeDev](https://raw.githubusercontent.com/xmha97/PortableApps/main/MicrosoftEdgePortableDev/App/AppInfo/appicon_16.png) EdgeDev](https://github.com/xmha97/PortableApps/releases?q=EdgeDev&expanded=true)  
