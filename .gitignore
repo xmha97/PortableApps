@@ -21,9 +21,9 @@ Desktop.ini
 *Portable/*.exe
 *Portable/App/*
 *Portable/Data
-*PortableOnline/*.exe
-*PortableOnline/App/*
-*PortableOnline/Data
+*Portable_online/*.exe
+*Portable_online/App/*
+*Portable_online/Data
 *PortableDev/*.exe
 *PortableDev/App/*
 *PortableDev/Data
