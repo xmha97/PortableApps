@@ -28,5 +28,8 @@ Desktop.ini
 *PortableDev/App/*
 *PortableDev/Data
 !*Portable/App/Readme.txt
+!*PortableDev/App/Readme.txt
+!*Portable_online/App/Readme.txt
 !*Portable/App/AppInfo
 !*PortableDev/App/AppInfo
+!*Portable_online/App/AppInfo
