@@ -33,3 +33,6 @@ Desktop.ini
 !*Portable/App/AppInfo
 !*PortableDev/App/AppInfo
 !*Portable_online/App/AppInfo
+!*Portable/App/DefaultData
+!*PortableDev/App/DefaultData
+!*Portable_online/App/DefaultData
