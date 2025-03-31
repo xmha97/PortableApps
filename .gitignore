@@ -14,8 +14,7 @@ Source/GoogleChromePortable64
 Source/FerdiumPortable
 Source/7-ZipPortable
 Source/LosslessCutPortable
-Source/*.exe
-Source/Desktop.ini
+Source/*
 Source/*Portable/*.exe
 Source/*Portable/App/*
 Source/*Portable/Data
