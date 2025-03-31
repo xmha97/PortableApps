@@ -1,7 +1,7 @@
 # PortableApps
 Unofficial PortableApps.com Repository
 ## ![Obsidian](https://raw.githubusercontent.com/xmha97/PortableApps/main/Source/ObsidianPortable/App/AppInfo/appicon_32.png) Obsidian
-[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases?q=Obsidian)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.8.9/ObsidianPortable_1.8.9.paf.exe)
 [![FORUM](https://img.shields.io/badge/FORUM-gray?style=flat-square)](https://portableapps.com/node/68172)
 ## ![Hiddify](https://raw.githubusercontent.com/xmha97/PortableApps/main/Source/HiddifyPortable/App/AppInfo/appicon_32.png) Hiddify
 [![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases?q=Hiddify)
