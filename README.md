@@ -12,5 +12,5 @@ Unofficial PortableApps.com Repository
 [![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-darkblue?style=flat-square)](https://github.com/xmha97/PortableApps/releases?q=massCode)
 [![FORUM](https://img.shields.io/badge/FORUM-darkgreen?style=flat-square)](https://portableapps.com/node/72228)
 ## ![Anki](https://raw.githubusercontent.com/xmha97/PortableApps/main/Source/AnkiPortable/App/AppInfo/appicon_32.png) Anki
-[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-darkblue?style=flat-square)](https://github.com/xmha97/PortableApps/releases?q=Anki)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-darkblue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/anki-v25.2/AnkiPortable_25.2.paf.exe)
 [![FORUM](https://img.shields.io/badge/FORUM-darkgreen?style=flat-square)](https://portableapps.com/node/68174)
