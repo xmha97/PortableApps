@@ -9,7 +9,7 @@ v1.1.16 (x86-32, x86-64)
 Requirement: Windows 7+  
 [![INSTALLER-OFFLINE](https://img.shields.io/badge/INSTALLER-OFFLINE-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.1.16/ObsidianPortableLegacyWin7_1.1.16.paf.exe)
 [![INSTALLER-ONLINE](https://img.shields.io/badge/INSTALLER-ONLINE-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.1.16/ObsidianPortableLegacyWin7_1.1.16_online.paf.exe)  
-## ![Hiddify](https://raw.githubusercontent.com/xmha97/PortableApps/main/Source/HiddifyPortable/App/AppInfo/appicon_32.png) Hiddify
+## ![Hiddify](https://raw.githubusercontent.com/xmha97/PortableApps/main/Source/HiddifyPortable/App/AppInfo/appicon_32.png) Hiddify [![SITE](https://img.shields.io/badge/SITE-darkgreen?style=flat-square)](https://hiddify.com/)
 v2.5.7 (x86-32)  
 Requirement: Windows 10+  
 [![INSTALLER-OFFLINE](https://img.shields.io/badge/INSTALLER-OFFLINE-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/hiddify-v2.5.7/HiddifyPortable_2.5.7.paf.exe)  
