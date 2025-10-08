@@ -1,10 +1,1 @@
-Source/*
-!Source/*/
-Source/*/*
-!Source/*/help.html
-!Source/*/Other/
-!Source/*/App/
-Source/*/App/*
-!Source/*/App/Readme.txt
-!Source/*/App/AppInfo/
-!Source/*/App/DefaultData/
+Build
