@@ -8,3 +8,15 @@ ${Segment.OnInit}
 		Abort
 	${EndIf}
 !macroend
+
+${SegmentPre}
+	ReadRegStr $0 HKLM "HARDWARE\DESCRIPTION\System" "Identifier"
+	StrCpy $1 $0 3 0
+		
+	${If} $1 == "ARM"
+		${ReadLauncherConfig} $ProgramExecutable Launch ProgramExecutableARM64
+	${Else}
+		MessageBox MB_OK|MB_ICONSTOP "This version of Obsidian is for ARM devices only."
+		Abort
+	${EndIf}
+!macroend
