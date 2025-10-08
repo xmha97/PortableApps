@@ -20,10 +20,10 @@ Universal (IA-32, AMD64)
 [![ONLINE-INSTALLER](https://img.shields.io/badge/ONLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.8.9/ObsidianPortable_1.8.9_online.paf.exe)  
 **v1.8.7**  
 Universal (IA-32, AMD64)  
-[![OFFLINE-INSTALLER](https://img.shields.io/badge/OFFLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.8.7/ObsidianPortable_1.8.7.paf.exe)
+[![OFFLINE-INSTALLER](https://img.shields.io/badge/OFFLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.8.7/ObsidianPortable_1.8.7.paf.exe)  
 **v1.7.7**  
 Universal (IA-32, AMD64)  
-[![OFFLINE-INSTALLER](https://img.shields.io/badge/OFFLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.7.7/ObsidianPortable_1.7.7.paf.exe)
+[![OFFLINE-INSTALLER](https://img.shields.io/badge/OFFLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.7.7/ObsidianPortable_1.7.7.paf.exe)  
 **v1.1.16** — Requires Windows 7+  
 Universal (IA-32, AMD64)  
 [![OFFLINE-INSTALLER](https://img.shields.io/badge/OFFLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.1.16/ObsidianPortable_1.1.16.paf.exe)
@@ -37,6 +37,7 @@ IA-32 — Legacy Windows 7
 AMD64 — Legacy Windows 7  
 [![OFFLINE-INSTALLER](https://img.shields.io/badge/OFFLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.1.16/ObsidianPortable64LegacyWin7_1.1.16.paf.exe)
 [![ONLINE-INSTALLER](https://img.shields.io/badge/ONLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.1.16/ObsidianPortable64LegacyWin7_1.1.16_online.paf.exe)  
+
 
 
 
