@@ -2,13 +2,11 @@ License overview
 
 A simplified summary of our licenses and terms.
 
-Last updated March 24, 2024
+Last updated February 20, 2025
 Summary
-Free for personal and non-profit use
+Free for everyone
 
-Obsidian is free for personal and non-profit use. However, if you use Obsidian for work-related activities that generate revenue in an organization with two or more employees, you must purchase a commercial license for each user. Government departments and agencies are considered commercial use. Non-profit organizations do not require a commercial license.
-
-To support our development, you can optionally purchase a Catalyst license. This one-time payment gives you early access to beta versions of Obsidian.
+Obsidian is free for all purposes, including personal, commercial, and non-profit use. To support our development and help keep Obsidian 100% user-supported, you can optionally purchase a Catalyst or Commercial license. The Catalyst license is for individuals and includes perks like early access to beta versions. The Commercial license allows organizations to be featured supporters on our website.
 Your personal information is not required
 
 Downloading Obsidian does not require an account, and we do not collect your personal information. You only need an account for payments or add-on services, and you can permanently delete your account at any time.
@@ -25,23 +23,21 @@ You agree to our terms and privacy policy by using Obsidian
 By using Obsidian, you agree to our Terms of Service and Privacy Policy. Please read and understand these documents, as they outline the terms of our relationship, including licensing, fees, security, privacy, liability, and dispute resolution.
 License types
 
-You must have a license to use Obsidian, though some users may use a free license. If you aren’t sure which license you need, see our licensing FAQ here.
-Personal use and other free license types
+Obsidian is free for everyone to use. We offer optional paid licenses to support our development and provide additional benefits.
+Free use
 
-Unless you require a Commercial Use License, you can download and use Obsidian for free, forever, under one of our free license types:
+You can download and use Obsidian for free, forever, for any purpose including:
 
-    Personal Use License, for personal use
-    De Minimis Commercial Use License, for sole-proprietorships and single-person organizations
-    Not for Profit License, for registered charitable and not-for-profit organizations
+    Personal use
+    Commercial use
+    Non-profit and charitable organizations
+    Educational institutions
+    Government departments and agencies
 
-Each allows you to download and use Obsidian without creating an account.
-Commercial use license
+You can download and use Obsidian without creating an account.
+Commercial license
 
-Commercial Use Licenses are required whenever Obsidian is being used for work for an organization with two or more employees. Government departments and agencies are considered commercial use. Sole proprietorships or other one-person organizations do not require a Commercial Use License. Work for educational purposes does not require a Commercial Use License.
-
-Commercial Use Licenses must be purchased on an annual and per user basis. Commercial users must purchase at least as many licenses as the number of people who will be using Obsidian.
-
-You may use Obsidian commercially for free for 14 days to evaluate the app before purchase.
+Commercial Licenses are optional licenses that help keep Obsidian 100% user-supported. They can be purchased on an annual basis to show your organization's support for independent software development.
 Catalyst license
 
-Catalyst Licenses are special licenses that can be purchased on top of all other license types. Catalyst Licenses offer additional benefits including early access to insider builds.
+Catalyst Licenses are special licenses that help keep Obsidian 100% user-supported while offering additional benefits, including early access to insider builds.

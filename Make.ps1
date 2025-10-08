@@ -1,14 +1,14 @@
 # Root paths
-$sourceRoot = "C:\Users\user\Documents\GitHub\PortableApps\Source"
-$buildRoot  = "C:\Users\user\Documents\GitHub\PortableApps\Build"
+$sourceRoot = ".\Source"
+$outputRoot  = ".\PortableApps"
 
 # Ensure the main Build folder exists
-if (-not (Test-Path $buildRoot)) {
-    Write-Host "Creating main Build folder: $buildRoot"
-    New-Item -Path $buildRoot -ItemType Directory | Out-Null
+if (-not (Test-Path $outputRoot)) {
+    Write-Host "Creating main Build folder: $outputRoot"
+    New-Item -Path $outputRoot -ItemType Directory | Out-Null
 }
 
-function Merge-SourceToBuild {
+function Build {
     param (
         [string]$sourceParent
     )
@@ -21,7 +21,7 @@ function Merge-SourceToBuild {
 
     foreach ($sub in $sourceSubfolders) {
         # Corresponding folder in Build
-        $targetFolder = Join-Path $buildRoot $sub.Name
+        $targetFolder = Join-Path $outputRoot $sub.Name
 
         # Create Build subfolder if it doesn't exist
         if (-not (Test-Path $targetFolder)) {
@@ -42,9 +42,9 @@ function Merge-SourceToBuild {
 }
 
 # Merge Obsidian
-Merge-SourceToBuild -sourceParent (Join-Path $sourceRoot "Obsidian")
+Build -sourceParent (Join-Path $sourceRoot "Obsidian")
 
 # Merge ObsidianLegacyWin7
-Merge-SourceToBuild -sourceParent (Join-Path $sourceRoot "ObsidianLegacyWin7")
+Build -sourceParent (Join-Path $sourceRoot "ObsidianLegacyWin7")
 
 Write-Host "Done."
