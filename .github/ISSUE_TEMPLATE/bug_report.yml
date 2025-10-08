@@ -24,13 +24,6 @@ body:
     label: Portable App
     options:
       - ImageGlass Portable
-      - ScreenToGif Portable
-      - Shadowsocks Portable
-      - Simplenote Portable
-      - TextGrab Portable
-      - TickTick Portable
-      - TorBrowser Portable
-      - Trello Portable
   validations:
     required: true
 - type: textarea
