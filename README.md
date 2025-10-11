@@ -3,8 +3,6 @@ Unofficial PortableApps.com Repository
 ## ![Obsidian](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/Source/Obsidian/!Common/App/AppInfo/appicon_32.png) Obsidian  
 [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=flat-square)](https://portableapps.com/node/68172) [![OBSIDIAN FORUM](https://img.shields.io/badge/OBSIDIAN-FORUM-darkgreen?style=flat-square)](https://forum.obsidian.md/t/windows-portable-version-of-obsidian/106638)  
   
----
-  
 **v1.9.14**  
   
 Universal (IA-32, AMD64, ARM64)  
@@ -64,5 +62,6 @@ IA-32 — Legacy Windows 7
 AMD64 — Legacy Windows 7  
 [![OFFLINE-INSTALLER](https://img.shields.io/badge/OFFLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.1.16/ObsidianPortable64LegacyWin7_1.1.16.paf.exe)
 [![ONLINE-INSTALLER](https://img.shields.io/badge/ONLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.1.16/ObsidianPortable64LegacyWin7_1.1.16_online.paf.exe)  
+
 
 
