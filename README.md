@@ -5,12 +5,18 @@ Unofficial PortableApps.com Repository
 Universal (IA-32, AMD64, ARM64)  
 [![OFFLINE-INSTALLER](https://img.shields.io/badge/OFFLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.9.14/ObsidianPortable_1.9.14.paf.exe)
 [![ONLINE-INSTALLER](https://img.shields.io/badge/ONLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.9.14/ObsidianPortable_1.9.14_online.paf.exe)  
+Universal (IA-32, AMD64) — Requires Windows 7+  
+[![OFFLINE-INSTALLER](https://img.shields.io/badge/OFFLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.9.14/ObsidianPortableLegacyWin7_1.9.14.paf.exe)  
 IA-32  
 [![OFFLINE-INSTALLER](https://img.shields.io/badge/OFFLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.9.14/ObsidianPortable32_1.9.14.paf.exe)
 [![INSTALLER-ONLINE](https://img.shields.io/badge/ONLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.9.14/ObsidianPortable32_1.9.14_online.paf.exe)  
+IA-32 — Requires Windows 7+  
+[![OFFLINE-INSTALLER](https://img.shields.io/badge/OFFLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.9.14/ObsidianPortable32LegacyWin7_1.9.14.paf.exe)  
 AMD64  
 [![OFFLINE-INSTALLER](https://img.shields.io/badge/OFFLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.9.14/ObsidianPortable64_1.9.14.paf.exe)
 [![ONLINE-INSTALLER](https://img.shields.io/badge/ONLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.9.14/ObsidianPortable64_1.9.14_online.paf.exe)  
+AMD64 — Requires Windows 7+  
+[![OFFLINE-INSTALLER](https://img.shields.io/badge/OFFLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.9.14/ObsidianPortable64LegacyWin7_1.9.14.paf.exe)  
 ARM64  
 [![OFFLINE-INSTALLER](https://img.shields.io/badge/OFFLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.9.14/ObsidianPortableARM64_1.9.14.paf.exe)
 [![ONLINE-INSTALLER](https://img.shields.io/badge/ONLINE-INSTALLER-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.9.14/ObsidianPortableARM64_1.9.14_online.paf.exe)  
