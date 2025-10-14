@@ -23,7 +23,8 @@ body:
   attributes:
     label: Portable App
     options:
-      - ImageGlass Portable
+      - Obsidian Portable
+      - Onlyoffice Portable
   validations:
     required: true
 - type: textarea
