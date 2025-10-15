@@ -124,7 +124,7 @@
 		StrCpy $1 "pt"
 	${EndIf}
 	${If} $LANGUAGE == "1046" ;PortugueseBR
-		StrCpy $1 "pt-BR"
+		StrCpy $1 "pt"
 	${EndIf}
 	${If} $LANGUAGE == "1048" ;Romanian
 		StrCpy $1 "ro"
@@ -166,19 +166,19 @@
 		StrCpy $1 "vi"
 	${EndIf}
 	${If} $LANGUAGE == "2052" ;SimpChinese
-		StrCpy $1 "zh-CN"
+		StrCpy $1 "zh"
 	${EndIf}
 	${If} $LANGUAGE == "1028" ;TradChinese
-			StrCpy $1 "zh-TW"
+			StrCpy $1 "zh"
 	${EndIf}
 	${If} $LANGUAGE == "1077" ;Zulu
 			StrCpy $1 "zu"
 	${EndIf}
 	${If} $LANGUAGE == "2057" ;EnglishGB
-			StrCpy $1 "en-GB"
+			StrCpy $1 "en"
 	${EndIf}
 	${If} $1 == "NotDone" ;Fallback to English
-		StrCpy $1 "en-US"
+		StrCpy $1 "en"
 	${EndIf}
 	nsExec::Exec `"$INSTDIR\App\Bin\leveldb.exe" --dbpath="$INSTDIR\Data\ObsidianAppData\Local Storage\leveldb" init`
 	nsExec::Exec `"$INSTDIR\App\Bin\leveldb.exe" --dbpath="$INSTDIR\Data\ObsidianAppData\Local Storage\leveldb" put "_app://obsidian.md\0\x01language" "\x01$1"`
