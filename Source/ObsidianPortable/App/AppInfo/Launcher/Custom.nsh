@@ -33,7 +33,7 @@ ${SegmentPreSecondary}
 
 ${SegmentPreExec}
 	ReadINIStr $0 "$EXEDIR\Data\settings\ObsidianPortableSettings.ini" "ObsidianPortableSettings" "Language"
-	MessageBox MB_OK "PreExec: $0"
+	MessageBox MB_OK "+PreExec: $0"
 !macroend
 
 ${SegmentPreExecPrimary}
@@ -46,14 +46,14 @@ ${SegmentPreExecSecondary}
 	MessageBox MB_OK "PreExecSecondary: $0"
 !macroend
 
-${SegmentPost}
-	ReadINIStr $0 "$EXEDIR\Data\settings\ObsidianPortableSettings.ini" "ObsidianPortableSettings" "Language"
-	MessageBox MB_OK "Post: $0"
-!macroend
-
 ${SegmentPostPrimary}
 	ReadINIStr $0 "$EXEDIR\Data\settings\ObsidianPortableSettings.ini" "ObsidianPortableSettings" "Language"
-	MessageBox MB_OK "PostPrimary: $0"
+	MessageBox MB_OK "Exit 1 - PostPrimary: $0"
+!macroend
+
+${SegmentPost}
+	ReadINIStr $0 "$EXEDIR\Data\settings\ObsidianPortableSettings.ini" "ObsidianPortableSettings" "Language"
+	MessageBox MB_OK "Exit 2 - Post: $0"
 !macroend
 
 ${SegmentPostSecondary}
@@ -63,5 +63,5 @@ ${SegmentPostSecondary}
 
 ${SegmentUnload}
 	ReadINIStr $0 "$EXEDIR\Data\settings\ObsidianPortableSettings.ini" "ObsidianPortableSettings" "Language"
-	MessageBox MB_OK "Unload: $0"
+	MessageBox MB_OK "Exit 3 - Unload: $0"
 !macroend
