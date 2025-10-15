@@ -1,9 +1,7 @@
 ${SegmentFile}
 !include WinMessages.nsh
 
-${Segment.onInit}
-	ReadINIStr $0 "$EXEDIR\Data\settings\ObsidianPortableSettings.ini" "ObsidianPortableSettings" "Language"
-	MessageBox MB_OK "Start 1 - onInit: $0"
+${Segment.onInit} ;Start 1 - Run EXE - onInit
 	ReadRegStr $2 HKLM "Software\Microsoft\Windows NT\CurrentVersion" "CurrentBuild"	
 	${If} $2 < 10240 ;Windows 10
 		MessageBox MB_OK|MB_ICONSTOP "Obsidian only runs on Windows 10 or later!"
@@ -11,42 +9,28 @@ ${Segment.onInit}
 	${EndIf}
 !macroend
 
-${SegmentInit}
-	ReadINIStr $0 "$EXEDIR\Data\settings\ObsidianPortableSettings.ini" "ObsidianPortableSettings" "Language"
-	MessageBox MB_OK "Start 2 - Show SplashScreen - Init: $0"
+${SegmentInit} ;Start 2 - Show SplashScreen - Init
 !macroend
 
-${SegmentPre}
-	ReadINIStr $0 "$EXEDIR\Data\settings\ObsidianPortableSettings.ini" "ObsidianPortableSettings" "Language"
-	MessageBox MB_OK "Start 3 - Pre: $0"
+${SegmentPre} ;Start 3 - Pre
 !macroend
 
-${SegmentPrePrimary}
-	ReadINIStr $0 "$EXEDIR\Data\settings\ObsidianPortableSettings.ini" "ObsidianPortableSettings" "Language"
-	MessageBox MB_OK "Start 4 - PrePrimary: $0"
+${SegmentPrePrimary} ;Start 4 - PrePrimary: $0
 !macroend
 
-${SegmentPreExec}
+${SegmentPreExec} ;Start 5 - Get Language - PreExec
 	ReadINIStr $0 "$EXEDIR\Data\settings\ObsidianPortableSettings.ini" "ObsidianPortableSettings" "Language"
-	MessageBox MB_OK "Start 5 - Get Language - PreExec: $0"
+	nsExec::Exec `"$EXEDIR\App\Bin\leveldb.exe" --dbpath="$EXEDIR\Data\ObsidianAppData\Local Storage\leveldb" put "_app://obsidian.md\0\x01language" "\x01$0"`
 !macroend
 
-${SegmentPreExecPrimary}
-	ReadINIStr $0 "$EXEDIR\Data\settings\ObsidianPortableSettings.ini" "ObsidianPortableSettings" "Language"
-	MessageBox MB_OK "Start 6 - StartApp - PreExecPrimary: $0"
+${SegmentPreExecPrimary} ;Start 6 - StartApp - PreExecPrimary
 !macroend
 
-${SegmentPostPrimary}
-	ReadINIStr $0 "$EXEDIR\Data\settings\ObsidianPortableSettings.ini" "ObsidianPortableSettings" "Language"
-	MessageBox MB_OK "Exit 1 - PostPrimary: $0"
+${SegmentPostPrimary} ;Exit 1 - PostPrimary: $0
 !macroend
 
-${SegmentPost}
-	ReadINIStr $0 "$EXEDIR\Data\settings\ObsidianPortableSettings.ini" "ObsidianPortableSettings" "Language"
-	MessageBox MB_OK "Exit 2 - Post: $0"
+${SegmentPost} ;Exit 2 - Post
 !macroend
 
-${SegmentUnload}
-	ReadINIStr $0 "$EXEDIR\Data\settings\ObsidianPortableSettings.ini" "ObsidianPortableSettings" "Language"
-	MessageBox MB_OK "Exit 3 - Unload: $0"
+${SegmentUnload} ;Exit 3 - Unload
 !macroend
