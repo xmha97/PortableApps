@@ -24,7 +24,7 @@ body:
     label: Portable App
     options:
       - Obsidian Portable
-      - Onlyoffice Portable
+      - AB Download Manager Portable
   validations:
     required: true
 - type: textarea
