@@ -4,5 +4,6 @@
 ---
 
 ![AB Download Manager](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/Source/abdmPortable/App/AppInfo/appicon_16.png) AB Download Manager [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=flat-square)](https://portableapps.com/node/00000)  
-[![Obsidian-1.7.0](https://img.shields.io/badge/Obsidian-1.9.14-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/abdm-v1.7.0/ObsidianPortable_1.7.0_online.paf.exe)  
+[![Obsidian-1.7.0](https://img.shields.io/badge/Obsidian-1.7.0-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/abdm-v1.7.0/ObsidianPortable_1.7.0_online.paf.exe)  
+
 
