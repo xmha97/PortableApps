@@ -5,11 +5,5 @@
 
 ---
 
-![AB Download Manager](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/Source/abdmPortable/App/AppInfo/appicon_16.png) AB Download Manager (Test) [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=flat-square)](https://portableapps.com/node/00000)  
+![AB Download Manager](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/Source/abdmPortable/App/AppInfo/appicon_16.png) AB Download Manager (Test) [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=flat-square)](https://portableapps.com/node/79500)  
 [![abdm-1.7.1](https://img.shields.io/badge/abdm-1.7.1-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/abdm-v1.7.1/abdmPortable_1.7.1_online.paf.exe)  
-
-
-
-
-
-
