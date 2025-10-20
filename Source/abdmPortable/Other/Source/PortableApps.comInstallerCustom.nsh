@@ -3,7 +3,7 @@
 	FileWrite $0 "../../Data"
 	FileClose $0 ;Closes the filled file
 
-	;Change installer languages into Obsidian language code
+	;Follow PortableApps.com Installer language
 	StrCpy $1 "NotDone"
 	${If} $LANGUAGE == "1078" ;Afrikaans - South Africa
 		StrCpy $1 "af_ZA"
