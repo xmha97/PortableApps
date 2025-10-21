@@ -1,6 +1,6 @@
 !macro CustomCodePostInstall
 	FileOpen $0 "$INSTDIR\App\ABDownloadManager\.portable" w ;Opens a Empty File and fills it
-	FileWrite $0 "../../Data"
+	FileWrite $0 "../../Data/.abdm"
 	FileClose $0 ;Closes the filled file
 
 	;Follow PortableApps.com Installer language
@@ -602,12 +602,11 @@
 	${If} $1 == "NotDone" ;Fallback to English
 		StrCpy $1 "en_US"
 	${EndIf}
-	CreateDirectory "$INSTDIR\Data\config"
-	FileOpen $2 "$INSTDIR\Data\config\appSettings.json" w ;Opens a Empty File and fills it
+	CreateDirectory "$INSTDIR\Data\.abdm\config"
+	FileOpen $2 "$INSTDIR\Data\.abdm\config\appSettings.json" w ;Opens a Empty File and fills it
 	FileWrite $2 "{$\n"
 	FileWrite $2 "    $\"language$\": $\"$1$\",$\n"
-	FileWrite $2 "    $\"defaultDownloadFolder$\": $\"./Data/Downloads$\",$\n"
-	FileWrite $2 "    $\"useCategoryByDefault$\": false$\n"
+	FileWrite $2 "    $\"defaultDownloadFolder$\": $\"./Data/Downloads$\"$\n"
 	FileWrite $2 "}"
 	FileClose $2 ;Closes the filled file
 !macroend

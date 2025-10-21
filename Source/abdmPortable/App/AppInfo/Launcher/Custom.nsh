@@ -11,7 +11,7 @@ ${Segment.onInit}
 
 ${SegmentPreExec}
 	FileOpen $0 "$EXEDIR\App\ABDownloadManager\.portable" w ;Opens a Empty File and fills it
-	FileWrite $0 "../../Data"
+	FileWrite $0 "../../Data/.abdm"
 	FileClose $0 ;Closes the filled file
 	
 	;Follow PortableApps.com Menu language
@@ -613,20 +613,25 @@ ${SegmentPreExec}
 	${If} $1 == "NotDone" ;Fallback to English
 		StrCpy $1 "en_US"
 	${EndIf}
-
 	${If} ${FileExists} "$EXEDIR\Data\config\appSettings.json"
 		;Determine if run from the PortableApps.com Menu
 		ReadEnvStr $0 "PortableApps.comLanguageCode_INTERNAL"
 		${IfNot} $0 == ""
-			${ConfigWrite} "$EXEDIR\Data\config\appSettings.json" "    $\"language$\": " "$\"$1$\", " $R0
+			nsExec::ExecToStack '$\"$EXEDIR\App\Bin\jq.exe$\" $\".language = \$\"$1\$\"$\" $\"$EXEDIR\Data\.abdm\config\appSettings.json$\"'
+			Pop $6
+			${If} $6 == "0"
+				Pop $7
+				FileOpen $0 "$EXEDIR\Data\.abdm\config\appSettings.json" w ;Opens a Empty File and fills it
+				FileWrite $0 $7
+				FileClose $0 ;Closes the filled file
+			${EndIf}
 		${EndIf}
 	${Else}
-		CreateDirectory "$EXEDIR\Data\config"
-		FileOpen $2 "$EXEDIR\Data\config\appSettings.json" w ;Opens a Empty File and fills it
+		CreateDirectory "$EXEDIR\Data\.abdm\config"
+		FileOpen $2 "$EXEDIR\Data\.abdm\config\appSettings.json" w ;Opens a Empty File and fills it
 		FileWrite $2 "{$\n"
 		FileWrite $2 "    $\"language$\": $\"$1$\",$\n"
-		FileWrite $2 "    $\"defaultDownloadFolder$\": $\"./Data/Downloads$\",$\n"
-		FileWrite $2 "    $\"useCategoryByDefault$\": false$\n"
+		FileWrite $2 "    $\"defaultDownloadFolder$\": $\"./Data/Downloads$\"$\n"
 		FileWrite $2 "}"
 		FileClose $2 ;Closes the filled file
 	${EndIf}
