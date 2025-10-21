@@ -10,4 +10,5 @@
 ![AB Download Manager](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/Source/abdmPortable/App/AppInfo/appicon_16.png) AB Download Manager  
 [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=flat-square)](https://portableapps.com/node/79500)  
 - [![abdm-1.7.1](https://img.shields.io/badge/abdm-1.7.1-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/abdm-v1.7.1/abdmPortable_1.7.1_online.paf.exe)  
-- [![abdmLegacyWin7-1.7.1](https://img.shields.io/badge/abdmLegacyWin7-1.6.2-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/abdm-v1.6.2/abdmPortable_1.6.2_online.paf.exe)  
+- [![abdmLegacyWin7-1.7.1](https://img.shields.io/badge/abdmLegacyWin7-1.6.2-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/abdm-v1.6.2/abdmPortableLegacyWin7_1.6.2_online.paf.exe)  
+
