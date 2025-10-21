@@ -613,7 +613,7 @@ ${SegmentPreExec}
 	${If} $1 == "NotDone" ;Fallback to English
 		StrCpy $1 "en_US"
 	${EndIf}
-	${If} ${FileExists} "$EXEDIR\Data\config\appSettings.json"
+	${If} ${FileExists} "$EXEDIR\Data\.abdm\config\appSettings.json"
 		;Determine if run from the PortableApps.com Menu
 		ReadEnvStr $0 "PortableApps.comLanguageCode_INTERNAL"
 		${IfNot} $0 == ""
