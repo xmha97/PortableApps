@@ -1,1 +1,6 @@
-*\.exe
+/Source/*.exe
+/Source/*/*.exe
+/Source/jmpPortable/App/Jellyfin/*
+/Source/jmpPortable/App/Jellyfin64/*
+/Source/jmpPortableLegacyWin7/App/Jellyfin/*
+/Source/jmpPortableLegacyWin7/App/Jellyfin64/*
