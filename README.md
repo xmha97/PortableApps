@@ -23,5 +23,6 @@
 
 ![Jellyfin](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/Source/JellyfinPortable/App/AppInfo/appicon_16.png) Jellyfin  
 [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=flat-square)](https://portableapps.com/node/00000)  
-- [![Jellyfin-10.10.6](https://img.shields.io/badge/Jellyfin-10.10.6-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/Jellyfin-v10.10.6/jmpPortable_10.10.6_online.paf.exe)  
+- [![Jellyfin-10.10.6](https://img.shields.io/badge/Jellyfin-10.10.6-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/jellyfin-v10.10.6/JellyfinPortable_10.10.6_online.paf.exe)  
+
 
