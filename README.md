@@ -19,4 +19,8 @@
 - [![jmp-1.12.0](https://img.shields.io/badge/jmp-1.12.0-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/jmp-v1.12.0/jmpPortable_1.12.0.paf.exe)  
 - [![jmpLegacyWin7-1.5.0](https://img.shields.io/badge/jmpLegacyWin7-1.5.0-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/jmp-v1.5.0/jmpPortableLegacyWin7_1.5.0.paf.exe)  
 
+---
 
+![Jellyfin](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/Source/JellyfinPortable/App/AppInfo/appicon_16.png) Jellyfin  
+[![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=flat-square)](https://portableapps.com/node/00000)  
+- [![Jellyfin-10.10.6](https://img.shields.io/badge/Jellyfin-10.10.6-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/Jellyfin-v10.10.6/jmpPortable_10.10.6.paf.exe)  
