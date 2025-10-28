@@ -42,5 +42,4 @@
 
 ![NanaZip](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/Source/NanaZipPortable/App/AppInfo/appicon_16.png) NanaZip  
 [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=flat-square)](https://portableapps.com/node/00000)  
-- [![Online-5.0.1263](https://img.shields.io/badge/Online-5.0.1263-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/nanazip-v5.0.1263/NanaZipPortable_5.0.1263_online.paf.exe)  
-
+- [![OnlineEnglish-5.0.1263](https://img.shields.io/badge/OnlineEnglish-5.0.1263-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/nanazip-v5.0.1263/NanaZipPortable_5.0.1263_English_online.paf.exe)  
