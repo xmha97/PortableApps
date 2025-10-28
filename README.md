@@ -24,7 +24,7 @@
 
 ---
 
-![Gotify](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/Source/GotifyPortable/App/AppInfo/appicon_16.png) Gotify Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/00000)  
+![Gotify](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/Source/GotifyPortable/App/AppInfo/appicon_16.png) Gotify Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79535)  
 - [![Online-2.7.3](https://img.shields.io/badge/Online-2.7.3-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/gotify-v2.7.3/GotifyPortable_2.7.3_online.paf.exe)  
 
 ---
@@ -36,5 +36,6 @@
 
 ![NanaZip](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/Source/NanaZipPortable/App/AppInfo/appicon_16.png) NanaZip Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/00000)  
 - [![OnlineEnglish-5.0.1263](https://img.shields.io/badge/OnlineEnglish-5.0.1263-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/nanazip-v5.0.1263/NanaZipPortable_5.0.1263_English_online.paf.exe)  
+
 
 
