@@ -23,8 +23,15 @@ body:
   attributes:
     label: Portable App
     options:
+      - Other
       - Obsidian Portable
       - AB Download Manager Portable
+      - Jellyfin Media Player Portable
+      - Jellyfin Portable
+      - Gotify Portable
+      - Logseq Portable
+      - NanaZip Portable
+      - ONLYOFFICE Portable
   validations:
     required: true
 - type: textarea
