@@ -29,13 +29,14 @@
 
 ---
 
-![Logseq](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/Source/LogseqPortable/App/AppInfo/appicon_16.png) Logseq Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/00000)  
+![Logseq](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/Source/LogseqPortable/App/AppInfo/appicon_16.png) Logseq Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79536)  
 - [![Online-0.10.14](https://img.shields.io/badge/Online-0.10.14-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/logseq-v0.10.14/LogseqPortable_0.10.14_online.paf.exe)  
 
 ---
 
 ![NanaZip](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/Source/NanaZipPortable/App/AppInfo/appicon_16.png) NanaZip Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/00000)  
 - [![OnlineEnglish-5.0.1263](https://img.shields.io/badge/OnlineEnglish-5.0.1263-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/nanazip-v5.0.1263/NanaZipPortable_5.0.1263_English_online.paf.exe)  
+
 
 
 
