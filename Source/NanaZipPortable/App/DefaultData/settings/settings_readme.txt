@@ -1,0 +1,1 @@
+Your NanaZip settings registry files will go here
