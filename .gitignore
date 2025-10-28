@@ -1,3 +1,5 @@
+/Source/*.zip
+/Source/*.7z
 /Source/*.exe
 /Source/*/*.exe
 /Source/jmpPortable/App/Jellyfin/*
@@ -5,3 +7,15 @@
 /Source/jmpPortableLegacyWin7/App/Jellyfin/*
 /Source/jmpPortableLegacyWin7/App/Jellyfin64/*
 /Source/JellyfinPortable/App/jellyfin/*
+/Source/AIMPPortable/*
+/Source/fb2kPortable/*
+/Source/LibreOfficePortable/*
+/Source/Notepad++Portable/*
+/Source/PotPlayerPortable/*
+/Source/XMPlayPortable/*
+/Source/VLCPortable/*
+/Source/VentoyPortable/*
+/Source/SMPlayerPortable/*
+/Source/PortableApps.com/*
+/Source/PortableApps.comLauncher/*
+/Source/PortableApps.comInstaller/*
