@@ -1,0 +1,8 @@
+server:
+  ssl:
+    letsencrypt:
+      cache: ../../Data/certs # the directory of the cache from letsencrypt
+database:
+  connection: ../../Data/gotify.db
+uploadedimagesdir: ../../Data/images
+pluginsdir: ../../Data/plugins
