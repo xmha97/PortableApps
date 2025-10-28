@@ -2,6 +2,7 @@
 /Source/*.7z
 /Source/*.exe
 /Source/*/*.exe
+/Source/*/Data/*
 /Source/jmpPortable/App/Jellyfin/*
 /Source/jmpPortable/App/Jellyfin64/*
 /Source/jmpPortableLegacyWin7/App/Jellyfin/*
