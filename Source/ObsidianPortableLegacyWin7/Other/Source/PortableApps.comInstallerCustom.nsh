@@ -609,6 +609,7 @@
 	${If} $1 == "NotDone" ;Fallback to English
 		StrCpy $1 "en"
 	${EndIf}
+	CreateDirectory "$INSTDIR\Data\ObsidianAppData\Local Storage\leveldb"
 	nsExec::Exec `"$INSTDIR\App\Bin\leveldb.exe" --dbpath="$INSTDIR\Data\ObsidianAppData\Local Storage\leveldb" init`
 	nsExec::Exec `"$INSTDIR\App\Bin\leveldb.exe" --dbpath="$INSTDIR\Data\ObsidianAppData\Local Storage\leveldb" put "_app://obsidian.md\0\x01language" "\x01$1"`
 !macroend
