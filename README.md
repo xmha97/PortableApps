@@ -38,5 +38,6 @@
 
 ---
 
-![ONLYOFFICE](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/Source/OnlyOfficePortable/App/AppInfo/appicon_16.png) ONLYOFFICE Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/00000)  
+![ONLYOFFICE](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/Source/OnlyOfficePortable/App/AppInfo/appicon_16.png) ONLYOFFICE Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79540)  
 - [![Online-9.1.0](https://img.shields.io/badge/Online-9.1.0-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/onlyoffice-v9.1.0/OnlyOfficePortable_9.1.0_online.paf.exe)  
+
