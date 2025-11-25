@@ -1,7 +1,7 @@
 # PortableApps
 
 ![Obsidian](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/ObsidianPortable/App/AppInfo/appicon_16.png) Obsidian Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/68172) [![OBSIDIAN FORUM](https://img.shields.io/badge/OBSIDIAN-FORUM-darkgreen?style=social)](https://forum.obsidian.md/t/windows-portable-version-of-obsidian/106638)  
-- [![Online-1.10.3](https://img.shields.io/badge/Online-1.10.3-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.10.3/ObsidianPortable_1.10.3_online.paf.exe)  
+- [![Online-1.10.6](https://img.shields.io/badge/Online-1.10.6-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.10.6/ObsidianPortable_1.10.6_online.paf.exe)  
 - [![OnlineLegacyWin7-1.1.16](https://img.shields.io/badge/OnlineLegacyWin7-1.1.16-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/obsidian-v1.1.16/ObsidianPortableLegacyWin7_1.1.16_online.paf.exe)  
 
 ---
