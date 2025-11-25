@@ -41,3 +41,7 @@
 ![ONLYOFFICE](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/OnlyOfficePortable/App/AppInfo/appicon_16.png) ONLYOFFICE Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79540)  
 - [![Online-9.1.0](https://img.shields.io/badge/Online-9.1.0-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/onlyoffice-v9.1.0/OnlyOfficePortable_9.1.0_online.paf.exe)  
 
+---
+
+![Far Manager](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/FarManagerPortable/App/AppInfo/appicon_16.png) Far Manager Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/00000)  
+- [![Online-9.1.0](https://img.shields.io/badge/Online-9.1.0-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/farmanager-v9.1.0/FarManagerPortable_9.1.0_online.paf.exe)  

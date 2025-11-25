@@ -10,9 +10,12 @@ Start.exe
 /PortableApps/jmpPortableLegacyWin7/App/Jellyfin/*
 /PortableApps/jmpPortableLegacyWin7/App/Jellyfin64/*
 /PortableApps/JellyfinPortable/App/jellyfin/*
+/PortableApps/FarManagerPortable/App/FarManager/*
+/PortableApps/FarManagerPortable/App/FarManager64/*
 /PortableApps/AIMPPortable/*
 /PortableApps/HomeBankPortable/*
 /PortableApps/fb2kPortable/*
+/PortableApps/Explorer++Portable/*
 /PortableApps/LibreOfficePortable/*
 /PortableApps/Notepad++Portable/*
 /PortableApps/PotPlayerPortable/*
