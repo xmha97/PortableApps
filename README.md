@@ -43,5 +43,6 @@
 
 ---
 
-![Far Manager](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/FarManagerPortable/App/AppInfo/appicon_16.png) Far Manager Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/00000)  
+![Far Manager](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/FarManagerPortable/App/AppInfo/appicon_16.png) Far Manager Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79670)  
 - [![Online-9.1.0](https://img.shields.io/badge/Online-3.0.6600-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/farmanager-v3.0.6600/FarManagerPortable_3.0.6600_online.paf.exe)  
+
