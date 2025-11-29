@@ -44,5 +44,9 @@
 ---
 
 ![Far Manager](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/FarManagerPortable/App/AppInfo/appicon_16.png) Far Manager Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79670)  
-- [![Online-9.1.0](https://img.shields.io/badge/Online-3.0.6600-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/farmanager-v3.0.6600/FarManagerPortable_3.0.6600_online.paf.exe)  
+- [![Online-3.0.6600](https://img.shields.io/badge/Online-3.0.6600-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/farmanager-v3.0.6600/FarManagerPortable_3.0.6600_online.paf.exe)  
 
+---
+
+![Syncthing](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/SyncthingPortable/App/AppInfo/appicon_16.png) Syncthing Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/00000)  
+- [![Online-2.0.11](https://img.shields.io/badge/Online-2.0.11-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/syncthing-v3.0.6600/SyncthingPortable_2.0.11_online.paf.exe)  
