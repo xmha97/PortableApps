@@ -1,0 +1,9 @@
+<configuration version="17">
+    <folder id="default" label="" path="Sync" type="readwrite" rescanIntervalS="60" ignorePerms="false" autoNormalize="true">
+    </folder>
+    <gui enabled="true" tls="false" debugging="false">
+    </gui>
+    <options>
+        <autoUpgradeIntervalH>0</autoUpgradeIntervalH>
+    </options>
+</configuration>
