@@ -50,3 +50,11 @@
 
 ![Syncthing](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/SyncthingPortable/App/AppInfo/appicon_16.png) Syncthing Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/00000)  
 - [![Online-2.0.11](https://img.shields.io/badge/Online-2.0.11-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/syncthing-v3.0.6600/SyncthingPortable_2.0.11_online.paf.exe)  
+
+---
+
+![Psiphon](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/PsiphonPortable/App/AppInfo/appicon_16.png) Psiphon Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/00000)  
+- [![Online-3.186](https://img.shields.io/badge/Online-3.186-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/psiphon-v3.186/PsiphonPortable_3.186_online.paf.exe)  
+- [![OnlineLegacyWin7-3.183](https://img.shields.io/badge/OnlineLegacyWin7-3.183-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/psiphon-v3.183/PsiphonPortableLegacyWin7_3.183_online.paf.exe)  
+- [![OnlineLegacyWinXP-3.150](https://img.shields.io/badge/OnlineLegacyWinXP-3.150-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/psiphon-v3.150/PsiphonPortableLegacyWinXP_3.150_online.paf.exe)  
+
