@@ -17,6 +17,8 @@ body:
       - Windows 8.1
       - Windows 8
       - Windows 7
+      - Windows Vista
+      - Windows XP
   validations:
     required: true
 - type: dropdown
@@ -33,6 +35,9 @@ body:
       - NanaZip Portable
       - ONLYOFFICE Portable
       - Far Manager Portable
+      - Syncthing Portable
+      - Psiphon Portable
+      - tinyMediaManager Portable
   validations:
     required: true
 - type: textarea
