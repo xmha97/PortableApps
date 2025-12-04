@@ -7,4 +7,5 @@ ${Segment.onInit}
 		MessageBox MB_OK|MB_ICONSTOP "Psiphon only runs on Windows 10 or later!"
 		Abort
 	${EndIf}
+	CreateDirectory "$INSTDIR\App\Psiphon\psiphon3.exe.orig"
 !macroend
