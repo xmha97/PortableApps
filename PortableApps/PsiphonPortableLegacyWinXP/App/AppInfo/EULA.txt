@@ -2,7 +2,7 @@ Psiphon End-User License Agreement
 
 This software and all associated intellectual property is the property of Psiphon Inc., an Ontario registered corporation with its head office in Toronto, Ontario Canada.
 
-The Psiphon system consists of both “software” (program source code and applications derived from that code) and a “service” (a system of client and server software that make up a functioning whole). The Psiphon software and source code are free and open-source and are licensed under the GNU General Public License Version 3 (with some exceptions – see each source repository for the specific license). Use of the Psiphon service is licensed under the terms described on this page.
+The Psiphon system consists of both "software" (program source code and applications derived from that code) and a "service" (a system of client and server software that make up a functioning whole). The Psiphon software and source code are free and open-source and are licensed under the GNU General Public License Version 3 (with some exceptions - see each source repository for the specific license). Use of the Psiphon service is licensed under the terms described on this page.
 
 The Psiphon service is strictly intended for individuals, and is for personal use only. If you wish to use Psiphon for any other purpose or have additional requirements, we offer a paid, commercial service. For more details, email sponsor@psiphon.ca.
 Terms of Use
@@ -16,7 +16,7 @@ Distribution
 Only software clients created by Psiphon Inc. are permitted to use the Psiphon service. It is a violation of this license to distribute or use a third-party client or tool for use with the Psiphon service.
 Statement of Limitations of Liability
 
-The Psiphon service is provided “as is” and without warranty or expressed or implied liability of any kind. Psiphon disclaims all warranties and liabilities associated with the use of this service, including personal injury, or any incidental, special, indirect or consequential personal or commercial damages whatsoever, including loss of data and business interruption.
+The Psiphon service is provided "as is" and without warranty or expressed or implied liability of any kind. Psiphon disclaims all warranties and liabilities associated with the use of this service, including personal injury, or any incidental, special, indirect or consequential personal or commercial damages whatsoever, including loss of data and business interruption.
 Termination; Terms of Service Violations
 
 Psiphon reserves the right at its sole discretion to terminate this license at any time for any or no reason, and without penalty. By using Psiphon, you agree not to use the service in any manner that violates the terms of service and license agreement.
