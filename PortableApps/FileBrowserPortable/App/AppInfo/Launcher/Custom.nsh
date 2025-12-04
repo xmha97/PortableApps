@@ -16,4 +16,8 @@ ${SegmentPreExec}
 	${EndIf}
 	ReadINIStr $6 "$EXEDIR\Data\settings\FileBrowserPortableSettings.ini" "FileBrowserPortableSettings" "FileBrowserRootDir"
 	nsExec::ExecToStack '$\"$5$\" config set --root=$\"$6$\"'
+	ReadINIStr $7 "$EXEDIR\Data\settings\FileBrowserPortableSettings.ini" "FileBrowserPortableSettings" "FileBrowserAddress"
+	nsExec::ExecToStack '$\"$5$\" config set --address=$\"$7$\"'
+	ReadINIStr $8 "$EXEDIR\Data\settings\FileBrowserPortableSettings.ini" "FileBrowserPortableSettings" "FileBrowserPort"
+	nsExec::ExecToStack '$\"$5$\" config set --port=$\"$8$\"'
 !macroend
