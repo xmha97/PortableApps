@@ -62,3 +62,8 @@
 
 ![tinyMediaManager](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/tmmPortable/App/AppInfo/appicon_16.png) tinyMediaManager Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79687)  
 - [![Online-5.2.4](https://img.shields.io/badge/Online-5.2.4-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/tmm-v5.2.4/tmmPortable_5.2.4_online.paf.exe)  
+
+---
+
+![File Browser](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/FileBrowserPortable/App/AppInfo/appicon_16.png) File Browser Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/00000)  
+- [![Online-2.50.0](https://img.shields.io/badge/Online-2.50.0-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/filebrowser-v2.50.0/FileBrowserPortable_2.50.0_online.paf.exe)  
