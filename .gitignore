@@ -12,12 +12,16 @@ Start.exe
 /PortableApps/JellyfinPortable/App/jellyfin/*
 /PortableApps/FarManagerPortable/App/FarManager/*
 /PortableApps/FarManagerPortable/App/FarManager64/*
+/PortableApps/PsiphonPortable/App/Psiphon/*
+/PortableApps/PsiphonPortableLegacyWin7/App/Psiphon/*
+/PortableApps/PsiphonPortableLegacyWinXP/App/Psiphon/*
 /PortableApps/AIMPPortable/*
 /PortableApps/HomeBankPortable/*
 /PortableApps/fb2kPortable/*
 /PortableApps/Explorer++Portable/*
 /PortableApps/LibreOfficePortable/*
 /PortableApps/Notepad++Portable/*
+/PortableApps/7-ZipPortable/*
 /PortableApps/PotPlayerPortable/*
 /PortableApps/XMPlayPortable/*
 /PortableApps/VLCPortable/*
@@ -26,3 +30,7 @@ Start.exe
 /PortableApps/PortableApps.com/*
 /PortableApps/PortableApps.comLauncher/*
 /PortableApps/PortableApps.comInstaller/*
+
+/PortableApps/PsiphonPortable/App/AppInfo/pac_installer_log.ini
+/PortableApps/PsiphonPortableLegacyWin7/App/AppInfo/pac_installer_log.ini
+/PortableApps/PsiphonPortableLegacyWinXP/App/AppInfo/pac_installer_log.ini
