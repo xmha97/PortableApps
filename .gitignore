@@ -29,6 +29,8 @@ Start.exe
 /PortableApps/VLCPortable/*
 /PortableApps/VentoyPortable/*
 /PortableApps/SMPlayerPortable/*
+/PortableApps/FoldingAtHomePortableLegacy32bit/*
+/PortableApps/GoogleChromePortable64/*
 /PortableApps/PortableApps.com/*
 /PortableApps/PortableApps.comLauncher/*
 /PortableApps/PortableApps.comInstaller/*
