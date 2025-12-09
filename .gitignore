@@ -17,6 +17,7 @@ Start.exe
 /PortableApps/PsiphonPortableLegacyWinXP/App/Psiphon/*
 /PortableApps/FileBrowserPortable/App/FileBrowser/*
 /PortableApps/FileBrowserPortable/App/FileBrowser64/*
+/PortableApps/idmPortable/App/IDM/*
 /PortableApps/AIMPPortable/*
 /PortableApps/HomeBankPortable/*
 /PortableApps/fb2kPortable/*
@@ -31,6 +32,8 @@ Start.exe
 /PortableApps/SMPlayerPortable/*
 /PortableApps/FoldingAtHomePortableLegacy32bit/*
 /PortableApps/GoogleChromePortable64/*
+/PortableApps/gPodderPortable/*
+/PortableApps/fdmPortable/*
 /PortableApps/PortableApps.com/*
 /PortableApps/PortableApps.comLauncher/*
 /PortableApps/PortableApps.comInstaller/*
