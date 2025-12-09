@@ -18,6 +18,7 @@ Start.exe
 /PortableApps/FileBrowserPortable/App/FileBrowser/*
 /PortableApps/FileBrowserPortable/App/FileBrowser64/*
 /PortableApps/idmPortable/App/IDM/*
+/PortableApps/EitaaDesktopPortable/App/Eitaa/*
 /PortableApps/AIMPPortable/*
 /PortableApps/HomeBankPortable/*
 /PortableApps/fb2kPortable/*
