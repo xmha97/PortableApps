@@ -17,6 +17,8 @@ Start.exe
 /PortableApps/PsiphonPortableLegacyWinXP/App/Psiphon/*
 /PortableApps/FileBrowserPortable/App/FileBrowser/*
 /PortableApps/FileBrowserPortable/App/FileBrowser64/*
+/PortableApps/qBittorrentPortable/App/Python/*
+/PortableApps/qBittorrentPortable/App/qBittorrent/*
 /PortableApps/idmPortable/App/IDM/*
 /PortableApps/EitaaDesktopPortable/App/Eitaa/*
 /PortableApps/AIMPPortable/*
