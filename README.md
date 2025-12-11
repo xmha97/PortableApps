@@ -72,3 +72,9 @@
 
 ![Radio Javan](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/RadioJavanPortable/App/AppInfo/appicon_16.png) Radio Javan Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79716)  
 - [![Online-5.0.0](https://img.shields.io/badge/Online-5.0.0-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/radiojavan-v5.0.0/RadioJavanPortable_5.0.0_online.paf.exe)  
+
+---
+
+![Eitaa Desktop](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/EitaaDesktopPortable/App/AppInfo/appicon_16.png) Eitaa Desktop Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79717)  
+- [![Online-5.1.4](https://img.shields.io/badge/Online-5.1.4-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/eitaa-v5.1.4/EitaaDesktopPortable_5.1.4_online.paf.exe)  
+
