@@ -78,3 +78,13 @@
 ![Eitaa Desktop](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/EitaaDesktopPortable/App/AppInfo/appicon_16.png) Eitaa Desktop Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79717)  
 - [![Online-5.1.4](https://img.shields.io/badge/Online-5.1.4-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/eitaa-v5.1.4/EitaaDesktopPortable_5.1.4_online.paf.exe)  
 
+
+---
+
+![qBittorrent](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/qBittorrentPortable/App/AppInfo/appicon_16.png) qBittorrent Portable (bundled with Python) [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79736)  
+- [![Offline-5.1.4](https://img.shields.io/badge/Offline-5.1.4-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/qbittorrent-v5.1.4/qBittorrentPortable_5.1.4.paf.exe)  
+
+
+
+
+
