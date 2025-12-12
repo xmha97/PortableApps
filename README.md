@@ -87,4 +87,5 @@
 ---
 
 ![Discord](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/DiscordPortable/App/AppInfo/appicon_16.png) Discord Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/00000)  
-- [![Online-1.0.9218](https://img.shields.io/badge/Online-1.0.9218-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/discord-v1.0.9218/DiscordPortable_1.0.9218.paf.exe)  
+- [![Online-1.0.9218](https://img.shields.io/badge/Online-1.0.9218-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/discord-v1.0.9218/DiscordPortable_1.0.9218_online.paf.exe)  
+
