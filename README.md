@@ -81,7 +81,8 @@
 
 ---
 
-![qBittorrent](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/EitaaDesktopPortable/App/AppInfo/appicon_16.png) qBittorrent Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79736)  
+![qBittorrent](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/qBittorrentPortable/App/AppInfo/appicon_16.png) qBittorrent Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79736)  
 - [![Online-5.1.4](https://img.shields.io/badge/Online-5.1.4-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/qbittorrent-v5.1.4/qBittorrentPortable_5.1.4_online.paf.exe)  
+
 
 
