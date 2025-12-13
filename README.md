@@ -89,3 +89,9 @@
 ![Discord](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/DiscordPortable/App/AppInfo/appicon_16.png) Discord Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/00000)  
 - [![Online-1.0.9218](https://img.shields.io/badge/Online-1.0.9218-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/discord-v1.0.9218/DiscordPortable_1.0.9218_online.paf.exe)  
 
+---
+
+![FileBot](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/FileBotPortable/App/AppInfo/appicon_16.png) FileBot Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/00000)  
+- [![Online-5.2.0](https://img.shields.io/badge/Online-5.2.0-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/filebot-v5.2.0/FileBotPortable_5.2.0_online.paf.exe)  
+
+
