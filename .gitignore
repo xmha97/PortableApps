@@ -1,5 +1,7 @@
 Start.exe
 /Documents/*
+/PortableApps/.nomedia
+/PortableApps/Desktop.ini
 /PortableApps/*.zip
 /PortableApps/*.7z
 /PortableApps/*.exe
@@ -40,6 +42,7 @@ Start.exe
 /PortableApps/PortableApps.com/*
 /PortableApps/PortableApps.comLauncher/*
 /PortableApps/PortableApps.comInstaller/*
+/PortableApps/PortableApps.comAppCompactor/*
 
 /PortableApps/PsiphonPortable/App/AppInfo/pac_installer_log.ini
 /PortableApps/PsiphonPortableLegacyWin7/App/AppInfo/pac_installer_log.ini
