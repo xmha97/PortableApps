@@ -1,0 +1,89 @@
+End User License Agreement
+
+IMPORTANT: PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE USING THE SOFTWARE.
+
+1. Grant of License
+
+  When downloading / installing and / or using the Software offered by Point Planck Limited, (the "Licensor") grants you (the "Licensee") a non-exclusive, non-transferable License for the software products including (if applicable) electronic documentation and associated material (the "Software"). This License governs also any update or new version or release of the Software. This License applies also if you have downloaded the Software from websites or e-shops other than Licensor's website. Unless it was specified at the time of delivery or download, the License permits you to use the Software for single user use only upon the terms and subject to the conditions contained herein. To the extent that the Software includes or interfaces with third parties' software (including add-ons or extension programs), the respective licensing provisions issued by such third parties shall apply and the Licensee undertakes to comply with them. Our order process is conducted by our online reseller Paddle.com. Paddle.com is the Merchant of Record for all our orders. Paddle provides all customer service inquiries and handles returns.
+
+2. License Fee
+
+  Unless otherwise specified by the Licensor, the Software is NOT free or shareware. The License Fee is specified and indicated by the Licensor and to be paid by you at the time of delivery or downloading of the Software.
+
+3. Obligations of Licensee
+
+  Upon accepting this License you undertake:
+
+    a. not to copy the Software (other than for normal use of the Software in accordance with the terms of this License) nor (subject to mandatory applicable law rights) to disassemble, decompile or reverse engineer the Software;
+
+    b. not to modify, lease, rent, loan, redistribute, sublease, sublicense or create derivative works from the Software;
+
+    c. to ensure that your employees, agents and other parties who will use the Software are notified of this License and the terms hereof prior to such employee, agent or party using the same;
+
+    d. not to display or make available the Software on a public bulletin board, ftp site, web site, chat room or by any other unauthorized means;
+
+    e. not to transfer, communicate or make available any license or license key that was given by the Licensor to install or use the Software;
+
+    f. within 14 days after the date of termination or discontinuance of this License for whatever reason, to destroy the Software and all upgrades or copies.
+
+4. Warranties
+
+    a. The Licensor warrants that the Software will substantially operate in accordance with the user instructions contained in the materials delivered with the Software.
+
+    b. You acknowledge that the Software in general is not error-free and agree that the existence of such errors shall not constitute a breach of this License. The Licensor may create new versions of the Software ("upgrades") which may correct such errors and although the Licensor has no obligation to notify existing licensees of such upgrades, the same will be made available at the same internet site as you downloaded / ordered the Software accompanying this License, at such cost as shall be indicated.
+
+    c. In the event that you discover a material error in the Software which substantially affects the use of the same and notify the Licensor of the error within 90 days from the date of this License, the Licensor shall at its sole option either refund the license fee or use all reasonable endeavors to correct by patch or new release (at its option) that part of the Software which does not so comply.
+
+    d. Warranty is excluded in the case non-compliance has been caused by any modification, variation or addition to the Software not performed by the Licensor or caused by its incorrect use, abuse or corruption of the Software or by use of the Software with other software or on equipment with which it is incompatible.
+
+    e. In the event of Software licensed for free, the Software is provided "as is" and any and all warranties, whether implied or express, are disclaimed to the maximum extent allowed under the applicable law.
+
+    f. To the extent permitted by the applicable law, the Licensor disclaims all other warranties with respect to the Software, either express or implied, including but not limited to any implied warranties of merchantability or fitness for any particular purpose.
+
+    g. Without limiting the generality of the foregoing, the Licensor disclaims any warranty in relation to:
+
+      - third parties' software, components and contents which may operate with the Software;
+
+      - add-ons or extension programs, including apps that are designed and made available by third parties or communities to operate with the Software and their interoperability with the Software and any new version thereof, even if they are made available on the Licensor website or are delivered by the Licensor together with or through the Software;
+
+      - additional or ancillary materials such as templates, forms and sheets incorporating texts, data, formula or programs and related documentation, whether designed by the Licensor or third parties, and their non-compliance with local legislation, requirements or standards and/or their accuracy and that they are up-to-date;
+
+      - third parties' websites and their content with which the Software or Licensor's website can connect;
+
+      - change of any parameter in law, regulation, tax or accounting rules or standards that may not be reflected in the Software;
+
+      - failure of internet connection to the extent that such connection is necessary or useful for the user to operate the Software or any additional feature connected thereto;
+
+      - failure of third parties to provide from their websites specific or up to date contents or services that are necessary or useful for the use of the Software.
+
+    h. You acknowledge and agree that in certain occasions the Software will connect to Licensor's website to transfer or download information (such as updates, license keys, versions, languages etc.). You shall be responsible to ensure the internet connection at the relevant time and Licensor disclaims any warranty as to the continuity of internet connection and any corruption or interception of information during the transfer or download.
+
+5. Limitation of Liability
+
+    a. Any liability (whether in contract, tort or other legal basis) of the Licensor for the breach of any obligation hereunder (including breach of warranty) or in connection with the delivery to, or downloading or use by you, of the Software is excluded, unless the Licensor has acted gross negligently or in willful intent.
+
+    b. Notwithstanding the generality of Clause 5(a) above and to the maximum extent allowed under the applicable law, the Licensor expressly excludes liability for consequential loss, damage of, or corruption to, other software or data, or for loss of profit, business, revenue, goodwill or anticipated savings.
+
+6. Intellectual Property Rights
+
+  All copyright, trademarks and other intellectual property rights subsisting in or used in connection with the Software (including but not limited to all images, animations, audio and other identifiable material relating to the Software) are and remain the sole property of the Licensor.
+
+7. Termination
+
+  You may terminate this License at any time by destroying the Software, license or license keys, documentation and all copies. No License Fee is refundable. The Licensor may terminate this License at any time if you are found in breach of any of these terms. Further the Licensor may terminate this License forthwith if you do not timely pay the License Fee. Further if the installation or use of the Software is conditional upon the activation of a license key which has been provided by the Licensor specifying that this had only a limited period of validity, the License shall be deemed automatically terminated upon expiry of such period. If you are notified of such termination or upon expiry of the validity period of the termination code, you must comply with the provisions of Clause 3(f) above.
+
+8. Miscellaneous
+
+    a. Assignment: Unless otherwise expressly provided for herein, the Licensee shall not assign or otherwise transfer all or part of the Software or this License without the prior written consent of the Licensor.
+
+    b. Waiver: Failure or neglect by the Licensor to enforce at any time any of the provisions hereof shall not be construed nor shall be deemed to be a waiver of the Licensor's rights hereunder nor in any way affect the validity of the whole or any part of this License nor prejudice the Licensor's rights to take subsequent action.
+
+    c. Headings: The headings of the terms and conditions herein contained are inserted for convenience of reference only and are not intended to be part of or to affect the meaning or interpretation of any of the terms and conditions of this License.
+
+    d. Severability: In the event that any of these terms, conditions or provisions shall be determined by any competent authority to be invalid, unlawful or unenforceable to any extent, such term, condition or provision shall to that extent be severed from the remaining terms, conditions and provisions which shall continue to be valid to the fullest extent permitted by law and the invalid, unlawful or unenforceable provision shall be replaced by a valid, lawful and enforceable provision that, from its commercial purpose, comes close to the invalid, unlawful or unenforceable provision.
+
+9. Governing Law and Jurisdiction
+
+    a. This License shall be subject to and governed by Hong Kong Law.
+
+    b. The Courts of Hong Kong shall have exclusive jurisdiction on any dispute, controversy or claim arising out of or in relation to this License, including the validity, invalidity, breach or termination thereof. Notwithstanding the preceding sentence, the Licensor shall be entitled to bring action against the Licensee in the courts at the latter's domicile.
