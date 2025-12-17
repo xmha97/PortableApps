@@ -94,5 +94,11 @@
 ![FileBot](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/FileBotPortable/App/AppInfo/appicon_16.png) FileBot Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79743)  
 - [![Online-5.2.0](https://img.shields.io/badge/Online-5.2.0-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/filebot-v5.2.0/FileBotPortable_5.2.0_online.paf.exe)  
 
+---
+
+![Mp3tag](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/Mp3tagPortable/App/AppInfo/appicon_16.png) Mp3tag Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/00000)  
+- [![Online-3.32](https://img.shields.io/badge/Online-3.32-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/mp3tag-v3.32/Mp3tagPortable_3.32_online.paf.exe)  
+
+
 
 
