@@ -37,7 +37,7 @@
 	${Else} ; 32 bit + 64 bit
 		WriteINIStr "$INSTDIR\App\AppInfo\appinfo.ini" "Control" "BaseAppID64" "%BASELAUNCHERPATH%\App\Mp3tag64\Mp3tag.exe"
 		WriteINIStr "$INSTDIR\App\AppInfo\appinfo.ini" "Dependencies" "Requires64bitOS" "no"
-		WriteINIStr "$INSTDIR\App\AppInfo\Launcher\Mp3tagPortable.ini" "Launch" "ProgramExecutable64" "Mp3tag64\Mp3tag.exe"
+		WriteINIStr "$INSTDIR\App\AppInfo\Launcher\mtPortable.ini" "Launch" "ProgramExecutable64" "Mp3tag64\Mp3tag.exe"
 	${EndIf}
 
 !macroend

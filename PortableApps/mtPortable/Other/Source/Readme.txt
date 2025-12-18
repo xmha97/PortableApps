@@ -1,4 +1,4 @@
-DEVELOPER: Replace the three occurrences of Mp3tagPortable in this file
+DEVELOPER: Replace the three occurrences of mtPortable in this file
 with the App ID of your app and then remove this first sentence.
 
 The base application's source code is available from the portable app's
@@ -18,11 +18,11 @@ USER CONFIGURATION
 ==================
 
 Some configuration in the PortableApps.com Launcher can be overridden by the
-user in an INI file next to Mp3tagPortable.exe called Mp3tagPortable.ini.
+user in an INI file next to mtPortable.exe called mtPortable.ini.
 If you are happy with the default options, it is not necessary, though.  There
 is an example INI included with this package to get you started.  To use it,
-copy AppNamePortable.ini from this directory to Mp3tagPortable.ini next to
-Mp3tagPortable.exe. The options in the INI file are as follows:
+copy AppNamePortable.ini from this directory to mtPortable.ini next to
+mtPortable.exe. The options in the INI file are as follows:
 
    AdditionalParameters=
    DisableSplashScreen=false
