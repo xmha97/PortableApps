@@ -38,6 +38,13 @@ body:
       - Syncthing Portable
       - Psiphon Portable
       - tinyMediaManager Portable
+      - File Browser Portable
+      - Radio Javan Portable
+      - Eitaa Desktop Portable
+      - qBittorrent Portable
+      - Discord Portable
+      - FileBot Portable
+      - mtPortable (Mp3tag Portable)
   validations:
     required: true
 - type: textarea
