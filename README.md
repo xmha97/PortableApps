@@ -87,7 +87,7 @@
 ---
 
 ![Discord](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/DiscordPortable/App/AppInfo/appicon_16.png) Discord Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79737)  
-- [![Online-1.0.9218](https://img.shields.io/badge/Online-1.0.9218-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/discord-v1.0.9218/DiscordPortable_1.0.9218_online.paf.exe)  
+- [![Online-1.0.9219](https://img.shields.io/badge/Online-1.0.9219-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/discord-v1.0.9219/DiscordPortable_1.0.9219_online.paf.exe)  
 
 ---
 
@@ -98,4 +98,5 @@
 
 ![mtPortable](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/mtPortable/App/AppInfo/appicon_16.png) mtPortable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79756)  
 - [![Online-3.32](https://img.shields.io/badge/Online-3.32-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/mt-v3.32/mtPortable_3.32_online.paf.exe)  
+
 
