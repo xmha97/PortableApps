@@ -98,5 +98,5 @@
 
 ![mtPortable](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/mtPortable/App/AppInfo/appicon_16.png) mtPortable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79756)  
 - [![Online-3.32](https://img.shields.io/badge/Online-3.32-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/mt-v3.32/mtPortable_3.32_online.paf.exe)  
-
+- [![OnlineLegacyWinXP-3.05](https://img.shields.io/badge/OnlineLegacyWinXP-3.05-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/mt-v3.5/mtPortableLegacyWinXP_3.05_online.paf.exe)  
 
