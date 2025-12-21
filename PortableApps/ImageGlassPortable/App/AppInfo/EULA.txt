@@ -1,0 +1,29 @@
+Privacy information
+
+This Privacy Policy applies to two entities: the ImageGlass software and this website. Please note that this policy may be updated without prior notice.
+
+Last update: July 27th, 2024
+
+Software
+
+There are two versions of ImageGlass: the "Microsoft Store" version and the "Classic" version. The Microsoft Store version is available on the Microsoft Store, while the Classic version can be downloaded from this website.
+
+Data Collection and Transmission
+
+ImageGlass software does not collect or transmit any personal information. The only data transmission occurs during update checks, which involve downloading a small file from the website. This process is anonymous and can be disabled in the Settings dialog.
+
+Additionally, when you open a link from the software to this website, ImageGlass appends an anonymous query string to the URL. This helps us display website content tailored to your software version.
+
+  * Classic version: The Classic version of ImageGlass does not collect any information beyond what is mentioned above.
+
+  * Microsoft Store version: The Microsoft Store version of ImageGlass does not collect any information directly. However, Microsoft may collect certain information anonymously as part of their store services.
+
+Website
+
+This website utilizes third-party services, including Carbon Ads and Google Analytics, for monetization and traffic analysis.
+
+  * Carbon Ads: Carbon Ads may use cookies to collect information during ad delivery. This information may include details about your visits to this and other websites, which helps provide advertisements that may be relevant to your interests.
+
+  * Google Analytics: Google Analytics tracks and reports website traffic to help us understand how visitors interact with our site. This service may also use cookies to collect information about your use of the website, including your IP address and browsing behavior.
+
+These third-party services are governed by their own privacy policies, which you can review for more detailed information on their data practices.
