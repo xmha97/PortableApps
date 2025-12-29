@@ -7,7 +7,7 @@
 ---
 
 ![AB Download Manager](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/abdmPortable/App/AppInfo/appicon_16.png) AB Download Manager Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79500)  
-- [![Online-1.7.1](https://img.shields.io/badge/Online-1.7.1-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/abdm-v1.7.1/abdmPortable_1.7.1_online.paf.exe)  
+- [![Online-1.8.1](https://img.shields.io/badge/Online-1.8.1-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/abdm-v1.8.1/abdmPortable_1.8.1_online.paf.exe)  
 - [![OnlineLegacyWin7-1.7.1](https://img.shields.io/badge/OnlineLegacyWin7-1.6.2-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/abdm-v1.6.2/abdmPortableLegacyWin7_1.6.2_online.paf.exe)  
 
 ---
@@ -103,5 +103,10 @@
 ---
 
 ![ImageGlass](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/ImageGlassPortable/App/AppInfo/appicon_16.png) ImageGlass Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79759)  
-- [![Online-9.4.0](https://img.shields.io/badge/Online-9.4.0-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/imageglass-v9.4.0/ImageGlassPortable_9.4.0_online.paf.exe)  
+- [![Online-9.4.0](https://img.shields.io/badge/Online-9.4.0-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/imageglass-v9.4.0/ImageGlassPortable_9.4.0_online.paf.exe)
+- [![Offline-9.4.0](https://img.shields.io/badge/Offline-9.4.0-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/imageglass-v9.4.0/ImageGlassPortable_9.4.0.paf.exe) (bundled with WebView2)  
+
+
+
+
 
