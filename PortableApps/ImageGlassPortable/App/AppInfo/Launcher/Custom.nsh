@@ -3,12 +3,12 @@ ${SegmentFile}
 ${SegmentInit}
 	ReadRegStr $0 HKLM "Software\Microsoft\Windows NT\CurrentVersion" "CurrentBuild"	
 	${If} $0 < 10240 ;Windows 10
-		MessageBox MB_OK|MB_ICONSTOP "Logseq only runs on Windows 10 or later!"
+		MessageBox MB_OK|MB_ICONSTOP "ImageGlass only runs on Windows 10 or later!"
 		Abort
 	${EndIf}
 
 	${If} $Bits = 32
-		MessageBox MB_OK|MB_ICONSTOP "Logseq only runs on 64-bit and ARM devices!"
+		MessageBox MB_OK|MB_ICONSTOP "ImageGlass only runs on 64-bit and ARM devices!"
 		Abort
 	${EndIf}
 
