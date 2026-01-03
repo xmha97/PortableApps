@@ -103,7 +103,7 @@
 ---
 
 ![ImageGlass](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/ImageGlassPortable/App/AppInfo/appicon_16.png) ImageGlass Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79759)  
-- [![Online-9.4.0](https://img.shields.io/badge/Online-9.4.0-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/imageglass-v9.4.0/ImageGlassPortable_9.4.0_online.paf.exe)
+- [![Online-9.4.1](https://img.shields.io/badge/Online-9.4.1-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/imageglass-v9.4.1/ImageGlassPortable_9.4.1_online.paf.exe)
 - [![Offline-9.4.0](https://img.shields.io/badge/Offline-9.4.0-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/imageglass-v9.4.0/ImageGlassPortable_9.4.0.paf.exe) (bundled with WebView2)  
 
 ---
@@ -115,6 +115,7 @@
 
 ![GeoGebra](https://raw.githubusercontent.com/xmha97/PortableApps/refs/heads/main/PortableApps/GeoGebraPortable/App/AppInfo/appicon_16.png) GeoGebra Portable [![PORTABLEAPPS FORUM](https://img.shields.io/badge/PORTABLEAPPS-FORUM-darkgreen?style=social)](https://portableapps.com/node/79810)  
 - [![Online-6.0.909.9](https://img.shields.io/badge/Online-6.0.909.9-blue?style=flat-square)](https://github.com/xmha97/PortableApps/releases/download/geogebra-v6.0.909.9/GeoGebraPortable_6.0.909.9_online.paf.exe)  
+
 
 
 
