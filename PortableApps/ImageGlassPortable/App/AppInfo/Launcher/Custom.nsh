@@ -16,9 +16,9 @@ ${SegmentInit}
 	StrCpy $1 $0 3 0
 
 	${If} $1 == "ARM"
-		${SetEnvironmentVariablesPath} FullAppDir "$EXEDIR\App\ImageGlassARM64"
+		${SetEnvironmentVariablesPath} FullAppDir "$EXEDIR\App\ImageGlass_arm64"
 	${Else}
-		${SetEnvironmentVariablesPath} FullAppDir "$EXEDIR\App\ImageGlass"
+		${SetEnvironmentVariablesPath} FullAppDir "$EXEDIR\App\ImageGlass_x64"
 	${EndIf}
 
 !macroend
