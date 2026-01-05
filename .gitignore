@@ -11,6 +11,7 @@ Start.exe
 /PortableApps/jmpPortable/App/Jellyfin64/*
 /PortableApps/jmpPortableLegacyWin7/App/Jellyfin/*
 /PortableApps/jmpPortableLegacyWin7/App/Jellyfin64/*
+/PortableApps/JellyfinDesktopPortable/App/JellyfinDesktop/*
 /PortableApps/JellyfinPortable/App/jellyfin/*
 /PortableApps/FarManagerPortable/App/FarManager/*
 /PortableApps/FarManagerPortable/App/FarManager64/*
